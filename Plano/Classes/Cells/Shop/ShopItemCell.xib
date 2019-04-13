@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+        <array key="Raleway-Light.ttf">
+            <string>Raleway-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ShopItemCell" id="5T2-Z7-mWq" customClass="ShopItemCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="198" height="270"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="198" height="270"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="Item1" translatesAutoresizingMaskIntoConstraints="NO" id="CUW-iA-rYV">
+                        <rect key="frame" x="0.0" y="0.0" width="198" height="175"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="CUW-iA-rYV" secondAttribute="height" multiplier="1:1" constant="23" id="cDL-ga-KeC"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="New" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8Wk-9n-KqK">
+                        <rect key="frame" x="0.0" y="142" width="28.5" height="26"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="26" id="5M7-Vi-Me0"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="13"/>
+                        <color key="textColor" red="0.85043728350000003" green="0.21816034619999999" blue="0.15920260550000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Expired" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SlH-Qv-P2g">
+                        <rect key="frame" x="0.0" y="0.0" width="198" height="175"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="14"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="mEU-WZ-ruz">
+                        <rect key="frame" x="0.0" y="179" width="198" height="81"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" verticalCompressionResistancePriority="751" text="Vouchers" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dlh-OH-BoC">
+                                <rect key="frame" x="0.0" y="0.0" width="198" height="27"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="27" id="9z7-1E-Wml"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toys &quot;R&quot; Us" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SdF-UQ-P2v">
+                                <rect key="frame" x="0.0" y="27" width="198" height="39"/>
+                                <fontDescription key="fontDescription" name="Raleway-Light" family="Raleway" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nnh-vm-SGy">
+                                <rect key="frame" x="0.0" y="66" width="198" height="15"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconPoints" translatesAutoresizingMaskIntoConstraints="NO" id="2Ze-Ys-voE">
+                                        <rect key="frame" x="61" y="0.0" width="22" height="15"/>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="2000 pts" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GQz-3q-yEj">
+                                        <rect key="frame" x="88" y="0.0" width="62.5" height="15"/>
+                                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="15"/>
+                                        <color key="textColor" red="0.75526618960000003" green="0.68650287389999998" blue="0.31436729429999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="GQz-3q-yEj" firstAttribute="centerX" secondItem="nnh-vm-SGy" secondAttribute="centerX" constant="20" id="8Ol-dh-0cc"/>
+                                    <constraint firstItem="GQz-3q-yEj" firstAttribute="top" secondItem="nnh-vm-SGy" secondAttribute="top" id="GPb-bq-3Z0"/>
+                                    <constraint firstAttribute="bottom" secondItem="2Ze-Ys-voE" secondAttribute="bottom" id="IgM-uE-taZ"/>
+                                    <constraint firstItem="GQz-3q-yEj" firstAttribute="leading" secondItem="2Ze-Ys-voE" secondAttribute="trailing" constant="5" id="bIb-19-FIM"/>
+                                    <constraint firstItem="2Ze-Ys-voE" firstAttribute="top" secondItem="nnh-vm-SGy" secondAttribute="top" id="dd7-KK-wtJ"/>
+                                    <constraint firstAttribute="height" constant="15" id="eqI-B9-e2D"/>
+                                    <constraint firstAttribute="bottom" secondItem="GQz-3q-yEj" secondAttribute="bottom" id="yjU-ib-hFQ"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                    </stackView>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="SlH-Qv-P2g" firstAttribute="top" secondItem="5T2-Z7-mWq" secondAttribute="top" id="5NT-Oh-IBO"/>
+                <constraint firstAttribute="trailing" secondItem="CUW-iA-rYV" secondAttribute="trailing" id="8Ha-cp-RES"/>
+                <constraint firstItem="SlH-Qv-P2g" firstAttribute="bottom" secondItem="CUW-iA-rYV" secondAttribute="bottom" id="95t-8H-mAL"/>
+                <constraint firstItem="mEU-WZ-ruz" firstAttribute="leading" secondItem="5T2-Z7-mWq" secondAttribute="leading" id="KZx-0L-Mw4"/>
+                <constraint firstAttribute="bottom" secondItem="mEU-WZ-ruz" secondAttribute="bottom" constant="10" id="Ldb-aN-4t7"/>
+                <constraint firstAttribute="trailing" secondItem="SlH-Qv-P2g" secondAttribute="trailing" id="TcP-PG-LPn"/>
+                <constraint firstItem="CUW-iA-rYV" firstAttribute="leading" secondItem="5T2-Z7-mWq" secondAttribute="leading" id="WkX-Zk-evu"/>
+                <constraint firstItem="mEU-WZ-ruz" firstAttribute="top" secondItem="SlH-Qv-P2g" secondAttribute="bottom" constant="4" id="ZoD-iG-ajs"/>
+                <constraint firstItem="SlH-Qv-P2g" firstAttribute="leading" secondItem="5T2-Z7-mWq" secondAttribute="leading" id="agc-oV-Ru4"/>
+                <constraint firstAttribute="trailing" secondItem="mEU-WZ-ruz" secondAttribute="trailing" id="b9C-uK-oCO"/>
+                <constraint firstItem="CUW-iA-rYV" firstAttribute="top" secondItem="5T2-Z7-mWq" secondAttribute="top" id="eFA-Wf-PJt"/>
+                <constraint firstItem="8Wk-9n-KqK" firstAttribute="leading" secondItem="5T2-Z7-mWq" secondAttribute="leading" id="paO-cI-Ey0"/>
+                <constraint firstItem="8Wk-9n-KqK" firstAttribute="top" secondItem="CUW-iA-rYV" secondAttribute="bottom" constant="-33" id="wyo-vv-Ywa"/>
+            </constraints>
+            <size key="customSize" width="198" height="270"/>
+            <connections>
+                <outlet property="imgItem" destination="CUW-iA-rYV" id="wSq-C1-fx0"/>
+                <outlet property="lblExpired" destination="SlH-Qv-P2g" id="zzo-QF-uFP"/>
+                <outlet property="lblItemDescription" destination="SdF-UQ-P2v" id="dkl-pr-evT"/>
+                <outlet property="lblItemTitle" destination="Dlh-OH-BoC" id="Fw7-3f-GOG"/>
+                <outlet property="lblPoints" destination="GQz-3q-yEj" id="HRN-W0-blk"/>
+                <outlet property="lblStatus" destination="8Wk-9n-KqK" id="yC7-XB-Mvg"/>
+            </connections>
+            <point key="canvasLocation" x="52" y="51"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Item1" width="480" height="480"/>
+        <image name="iconPoints" width="22" height="15"/>
+    </resources>
+</document>

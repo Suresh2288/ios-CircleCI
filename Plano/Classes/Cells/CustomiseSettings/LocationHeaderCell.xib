@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+        <array key="Raleway-Light.ttf">
+            <string>Raleway-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="LocationHeaderCell" rowHeight="134" id="gIM-YR-g6Q" customClass="LocationHeaderCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="134"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="gIM-YR-g6Q" id="Wv5-cG-Lvx">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="133.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Location" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3I8-f3-LeT" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                        <rect key="frame" x="18" y="21" width="219" height="18.5"/>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="17"/>
+                        <color key="textColor" red="0.18167480829999999" green="0.078883193429999998" blue="0.266808033" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Qya-kJ-9v5" customClass="MaterialSwitch" customModule="Plano">
+                        <rect key="frame" x="257" y="15.5" width="45" height="30"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="srA-Ha-Ouw"/>
+                            <constraint firstAttribute="width" constant="45" id="xld-yq-U5w"/>
+                        </constraints>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Create a safe area for your child to use the device" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WE9-v7-kwh" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                        <rect key="frame" x="91" y="65" width="211" height="31"/>
+                        <fontDescription key="fontDescription" name="Raleway-Light" family="Raleway" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconCustomiseLocation" translatesAutoresizingMaskIntoConstraints="NO" id="4st-kI-5qR">
+                        <rect key="frame" x="18" y="52.5" width="56" height="56"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="56" id="iJf-hY-e0c"/>
+                            <constraint firstAttribute="width" constant="56" id="pXe-R2-XBI"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="WE9-v7-kwh" firstAttribute="centerY" secondItem="4st-kI-5qR" secondAttribute="centerY" id="2xm-1G-VvT"/>
+                    <constraint firstItem="4st-kI-5qR" firstAttribute="top" secondItem="3I8-f3-LeT" secondAttribute="bottom" constant="13" id="6xL-O9-8ms"/>
+                    <constraint firstItem="Qya-kJ-9v5" firstAttribute="leading" secondItem="3I8-f3-LeT" secondAttribute="trailing" constant="20" id="HNY-he-QDS"/>
+                    <constraint firstItem="WE9-v7-kwh" firstAttribute="leading" secondItem="Wv5-cG-Lvx" secondAttribute="leading" constant="91" id="O2E-xM-X1X"/>
+                    <constraint firstItem="4st-kI-5qR" firstAttribute="leading" secondItem="3I8-f3-LeT" secondAttribute="leading" id="T9G-Pg-MxG"/>
+                    <constraint firstItem="Qya-kJ-9v5" firstAttribute="centerY" secondItem="3I8-f3-LeT" secondAttribute="centerY" id="c5c-cN-MKL"/>
+                    <constraint firstItem="WE9-v7-kwh" firstAttribute="trailing" secondItem="Qya-kJ-9v5" secondAttribute="trailing" id="lrD-28-VCM"/>
+                    <constraint firstAttribute="bottom" secondItem="4st-kI-5qR" secondAttribute="bottom" constant="25" id="mQy-q0-brT"/>
+                    <constraint firstItem="3I8-f3-LeT" firstAttribute="leading" secondItem="Wv5-cG-Lvx" secondAttribute="leading" constant="18" id="n54-T6-XCo"/>
+                    <constraint firstItem="3I8-f3-LeT" firstAttribute="top" secondItem="Wv5-cG-Lvx" secondAttribute="top" constant="21" id="sBi-qU-b6W"/>
+                    <constraint firstAttribute="trailing" secondItem="Qya-kJ-9v5" secondAttribute="trailing" constant="18" id="vpG-DP-8vT"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="lblDescription" destination="WE9-v7-kwh" id="k0H-A1-vzY"/>
+                <outlet property="lblTitle" destination="3I8-f3-LeT" id="3Fr-LP-45M"/>
+                <outlet property="locationBoundariesSwitch" destination="Qya-kJ-9v5" id="CIL-Et-0HL"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="99"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="iconCustomiseLocation" width="64" height="64"/>
+    </resources>
+</document>

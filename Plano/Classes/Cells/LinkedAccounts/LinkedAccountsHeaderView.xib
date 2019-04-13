@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+        <array key="Raleway-Light.ttf">
+            <string>Raleway-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="LinkedAccountsHeaderView" id="PYd-BP-dNh" customClass="LinkedAccountsHeaderView" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="PYd-BP-dNh" id="ONr-dd-Dvn">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xvz-Y3-nlG" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="0.0" width="9" height="44"/>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="14"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="Linked Accounts" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wko-vc-YJ8" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                        <rect key="frame" x="14.5" y="0.0" width="98.5" height="43.5"/>
+                        <fontDescription key="fontDescription" name="Raleway-Light" family="Raleway" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Xvz-Y3-nlG" firstAttribute="leading" secondItem="ONr-dd-Dvn" secondAttribute="leading" id="3h8-2o-pgG"/>
+                    <constraint firstAttribute="bottom" secondItem="Wko-vc-YJ8" secondAttribute="bottom" id="Brz-T6-oru"/>
+                    <constraint firstItem="Wko-vc-YJ8" firstAttribute="top" secondItem="ONr-dd-Dvn" secondAttribute="top" id="IZx-Dy-qJa"/>
+                    <constraint firstItem="Wko-vc-YJ8" firstAttribute="leading" secondItem="Xvz-Y3-nlG" secondAttribute="trailing" constant="5.5" id="LOJ-XT-bwt"/>
+                    <constraint firstAttribute="bottom" secondItem="Xvz-Y3-nlG" secondAttribute="bottom" constant="-1" id="dRX-Kl-3Hw"/>
+                    <constraint firstItem="Xvz-Y3-nlG" firstAttribute="top" secondItem="ONr-dd-Dvn" secondAttribute="top" id="xBI-ud-75w"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="lblCount" destination="Xvz-Y3-nlG" id="jUc-GL-iYI"/>
+                <outlet property="lblCountTitle" destination="Wko-vc-YJ8" id="x5v-HW-A8j"/>
+            </connections>
+            <point key="canvasLocation" x="16.5" y="-204"/>
+        </tableViewCell>
+    </objects>
+</document>

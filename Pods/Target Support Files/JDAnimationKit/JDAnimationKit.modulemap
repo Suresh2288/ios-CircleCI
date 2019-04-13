@@ -1,0 +1,6 @@
+framework module JDAnimationKit {
+  umbrella header "JDAnimationKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

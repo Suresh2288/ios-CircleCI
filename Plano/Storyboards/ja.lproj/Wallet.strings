@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Vouchers"; ObjectID = "3wW-pN-tIO"; */
+"3wW-pN-tIO.text" = "Vouchers";
+
+/* Class = "UILabel"; text = "Vouchers"; ObjectID = "4q7-CN-9jS"; */
+"4q7-CN-9jS.text" = "Vouchers";
+
+/* Class = "UILabel"; text = "2000 pts"; ObjectID = "5O4-OS-LK8"; */
+"5O4-OS-LK8.text" = "2000 pts";
+
+/* Class = "UINavigationController"; title = "Parent Wallet Nav"; ObjectID = "7Ib-8K-gUj"; */
+"7Ib-8K-gUj.title" = "Parent Wallet Nav";
+
+/* Class = "UINavigationController"; title = "Child Shop Nav"; ObjectID = "7NJ-VO-csS"; */
+"7NJ-VO-csS.title" = "plano ショップ";
+
+/* Class = "UILabel"; text = "Sort by"; ObjectID = "9j1-PY-b9f"; */
+"9j1-PY-b9f.text" = "ソート順";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "Bus-Yv-x2o"; */
+"Bus-Yv-x2o.text" = "カテゴリ";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "LJI-za-CCc"; */
+"LJI-za-CCc.text" = "カテゴリ";
+
+/* Class = "UILabel"; text = "$ 19.99"; ObjectID = "TyG-iy-VDG"; */
+"TyG-iy-VDG.text" = "$ 19.99";
+
+/* Class = "UILabel"; text = "Sort by"; ObjectID = "UYy-rd-eaN"; */
+"UYy-rd-eaN.text" = "ソート順";
+
+/* Class = "UILabel"; text = "Wait for the good news!"; ObjectID = "YnE-6R-Hdf"; */
+"YnE-6R-Hdf.text" = "楽しみに待っていよう！";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "f2l-Zt-QVO"; */
+"f2l-Zt-QVO.text" = "New";
+
+/* Class = "UILabel"; text = "Toys \"R\" Us"; ObjectID = "gDK-YN-mKt"; */
+"gDK-YN-mKt.text" = "Toys \"R\" Us";
+
+/* Class = "UILabel"; text = "I have sent your request to your Parent/Carers!"; ObjectID = "hXg-bC-8GV"; */
+"hXg-bC-8GV.text" = "親 / 保護者にリクエストを送信したよ！";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "khB-dZ-ana"; */
+"khB-dZ-ana.text" = "New";
+
+/* Class = "UILabel"; text = "Toys \"R\" Us"; ObjectID = "s5y-3v-2ph"; */
+"s5y-3v-2ph.text" = "Toys \"R\" Us";

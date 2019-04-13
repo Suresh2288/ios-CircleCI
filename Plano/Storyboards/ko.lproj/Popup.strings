@@ -1,0 +1,300 @@
+
+/* Class = "UILabel"; text = "You are outside the safe area"; ObjectID = "11I-4M-BHy"; */
+"11I-4M-BHy.text" = "안전 지역을 벗어났습니다";
+
+/* Class = "UIButton"; normalTitle = "1km"; ObjectID = "19Z-wd-iv9"; */
+"19Z-wd-iv9.normalTitle" = "1km";
+
+/* Class = "UILabel"; text = "Device can't be used at this time"; ObjectID = "2CU-GT-ALM"; */
+"2CU-GT-ALM.text" = "지금은 기기를 사용할 수 없어요. ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3D0-tQ-0OP"; */
+"3D0-tQ-0OP.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "3LE-3Q-np0"; */
+"3LE-3Q-np0.normalTitle" = "확인";
+
+/* Class = "UIButton"; normalTitle = "Use Now"; ObjectID = "4PL-fD-tKE"; */
+"4PL-fD-tKE.normalTitle" = "지금 사용";
+
+/* Class = "UILabel"; text = "Well rested eyes"; ObjectID = "6xs-rc-eE7"; */
+"6xs-rc-eE7.text" = "눈이 충분한 휴식을 취했어요. ";
+
+/* Class = "UILabel"; text = "lblTitle"; ObjectID = "7ZK-DA-f9w"; */
+"7ZK-DA-f9w.text" = "lblTitle";
+
+/* Class = "UIButton"; normalTitle = "Everyday"; ObjectID = "85G-Ce-EvT"; */
+"85G-Ce-EvT.normalTitle" = "매일";
+
+/* Class = "UILabel"; text = "EveryDay"; ObjectID = "8TA-Ba-fZt"; */
+"8TA-Ba-fZt.text" = "매일";
+
+/* Class = "UIButton"; normalTitle = "Calibrate"; ObjectID = "8k3-Vh-daP"; */
+"8k3-Vh-daP.normalTitle" = "조정";
+
+/* Class = "UILabel"; text = "Does your child wear glasses or contact lenses?"; ObjectID = "9w9-dG-V9Z"; */
+"9w9-dG-V9Z.text" = "아이가 안경 또는 렌즈를 착용하고 있습니까? ";
+
+/* Class = "UILabel"; text = "Are you sure? Lose 50 points."; ObjectID = "Asg-7d-s3i"; */
+"Asg-7d-s3i.text" = "괜찮은거야? 50 점을 잃었습니다.";
+
+/* Class = "UIButton"; normalTitle = "From"; ObjectID = "BFP-uO-cxE"; */
+"BFP-uO-cxE.normalTitle" = "시작";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "Bqf-nk-VHn"; */
+"Bqf-nk-VHn.normalTitle" = "허용 후 사용";
+
+/* Class = "UILabel"; text = "Schedule period"; ObjectID = "DYd-bk-C2y"; */
+"DYd-bk-C2y.text" = "일정 기간";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "Dtm-FP-jWl"; */
+"Dtm-FP-jWl.normalTitle" = "허용 후 사용";
+
+/* Class = "UIBarButtonItem"; title = "Custom"; ObjectID = "Emk-hH-SV6"; */
+"Emk-hH-SV6.title" = "맞춤 설정";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "ErR-eV-a5d"; */
+"ErR-eV-a5d.normalTitle" = "건너 뛰기";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "Erc-3Q-4wb"; */
+"Erc-3Q-4wb.text" = "끝";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "FV2-Z1-plg"; */
+"FV2-Z1-plg.normalTitle" = "저장";
+
+/* Class = "UILabel"; text = "Rest your eyes"; ObjectID = "HVl-KU-XBS"; */
+"HVl-KU-XBS.text" = "눈에도 쉬는 시간이 필요해요. ";
+
+/* Class = "UILabel"; text = "250 points"; ObjectID = "Hhe-En-giv"; */
+"Hhe-En-giv.text" = "250 points";
+
+/* Class = "UIButton"; normalTitle = "Schedule period"; ObjectID = "IPf-6e-n1S"; */
+"IPf-6e-n1S.normalTitle" = "일정 기간";
+
+/* Class = "UILabel"; text = "lblLocation"; ObjectID = "Jcx-O7-OKF"; */
+"Jcx-O7-OKF.text" = "lblLocation";
+
+/* Class = "UILabel"; text = "Remember. Wear yours."; ObjectID = "Jgt-aQ-jSB"; */
+"Jgt-aQ-jSB.text" = "안경을 꼭 착용하세요. ";
+
+/* Class = "UIButton"; normalTitle = "550m"; ObjectID = "Jyp-hp-jBo"; */
+"Jyp-hp-jBo.normalTitle" = "550m";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "M7g-8B-jNT"; */
+"M7g-8B-jNT.normalTitle" = "예";
+
+/* Class = "UILabel"; text = "Lose"; ObjectID = "NYF-el-KgZ"; */
+"NYF-el-KgZ.text" = "잃은 포인트";
+
+/* Class = "UILabel"; text = "100 points"; ObjectID = "O0G-7W-Ff5"; */
+"O0G-7W-Ff5.text" = "100 points";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "O0G-hW-jjg"; */
+"O0G-hW-jjg.normalTitle" = "저장";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Of6-tJ-hJL"; */
+"Of6-tJ-hJL.normalTitle" = "확인";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "OhU-Y5-3Op"; */
+"OhU-Y5-3Op.normalTitle" = "허용 후 사용";
+
+/* Class = "UILabel"; text = "Bonus"; ObjectID = "OmG-nJ-oNZ"; */
+"OmG-nJ-oNZ.text" = "보너스";
+
+/* Class = "UIButton"; normalTitle = "04:00 pm"; ObjectID = "PwG-dR-pPW"; */
+"PwG-dR-pPW.normalTitle" = "04:00 pm";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Q3P-6J-cmY"; */
+"Q3P-6J-cmY.normalTitle" = "확인";
+
+/* Class = "UITextField"; placeholder = "Boundary name"; ObjectID = "QlA-Ad-PqG"; */
+"QlA-Ad-PqG.placeholder" = "지역 이름";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "R3k-2x-fro"; */
+"R3k-2x-fro.normalTitle" = "아니오";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "RL3-5k-k9Y"; */
+"RL3-5k-k9Y.normalTitle" = "중지";
+
+/* Class = "UILabel"; text = "You've successfully created a child profile. Customise settings for for your child."; ObjectID = "Ryu-t7-lVK"; */
+"Ryu-t7-lVK.text" = "You've successfully created a child profile. Customise settings for for your child.";
+
+/* Class = "UILabel"; text = "Add a new schedule"; ObjectID = "SDL-0w-ClC"; */
+"SDL-0w-ClC.text" = "새 일정 추가";
+
+/* Class = "UILabel"; text = "Look Far."; ObjectID = "SKX-UV-bIx"; */
+"SKX-UV-bIx.text" = "먼 곳을 바라보세요. ";
+
+/* Class = "UIButton"; normalTitle = "Schedul Period"; ObjectID = "Sh0-pf-AUe"; */
+"Sh0-pf-AUe.normalTitle" = "Schedul Period";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "T1R-a1-rdE"; */
+"T1R-a1-rdE.normalTitle" = "시작하기";
+
+/* Class = "UILabel"; text = "bonus"; ObjectID = "T4c-5H-vy2"; */
+"T4c-5H-vy2.text" = "보너스";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "TYU-Qh-XYt"; */
+"TYU-Qh-XYt.normalTitle" = "건너 뛰기";
+
+/* Class = "UILabel"; text = "Bonus"; ObjectID = "UjZ-3A-luX"; */
+"UjZ-3A-luX.text" = "보너스";
+
+/* Class = "UILabel"; text = "250 points"; ObjectID = "W6F-mp-Izz"; */
+"W6F-mp-Izz.text" = "250 points";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "W8S-qe-jbk"; */
+"W8S-qe-jbk.normalTitle" = "확인";
+
+/* Class = "UILabel"; text = "Awesome device use.   "; ObjectID = "X1Y-dJ-S1F"; */
+"X1Y-dJ-S1F.text" = "Awesome device use.   ";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "XRR-eZ-PN9"; */
+"XRR-eZ-PN9.normalTitle" = "건너 뛰기";
+
+/* Class = "UILabel"; text = "Have you been outdoors today?"; ObjectID = "YDo-an-ttH"; */
+"YDo-an-ttH.text" = "오늘 밖에 나가 놀았나요? ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "YKM-6s-cMZ"; */
+"YKM-6s-cMZ.normalTitle" = "취소";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "Yep-Vf-sZN"; */
+"Yep-Vf-sZN.normalTitle" = "Check";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Ypz-M4-kzu"; */
+"Ypz-M4-kzu.normalTitle" = "확인";
+
+/* Class = "UIButton"; normalTitle = "To"; ObjectID = "aIY-3p-pfh"; */
+"aIY-3p-pfh.normalTitle" = "끝";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "aoW-z7-hgr"; */
+"aoW-z7-hgr.normalTitle" = "확인";
+
+/* Class = "UILabel"; text = "Your device use is ok, keep trying."; ObjectID = "c4H-B6-ppn"; */
+"c4H-B6-ppn.text" = "기기 사용을 잘 하고 있어요. ";
+
+/* Class = "UILabel"; text = "Hold the device 20cm or more from your face for 5 seconds."; ObjectID = "cFz-ex-GA3"; */
+"cFz-ex-GA3.text" = "기기를 20cm 이상 5 초 이상 방치하십시오.";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "cS7-TA-FiC"; */
+"cS7-TA-FiC.normalTitle" = "예";
+
+/* Class = "UILabel"; text = "OK, time's really up."; ObjectID = "cyv-4k-IWI"; */
+"cyv-4k-IWI.text" = "시간이 다 되었어요. ";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "d5l-Dd-Txe"; */
+"d5l-Dd-Txe.normalTitle" = "허용 후 사용";
+
+/* Class = "UIButton"; normalTitle = "350m"; ObjectID = "dmK-6k-P1W"; */
+"dmK-6k-P1W.normalTitle" = "350m";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "e6n-sP-KIh"; */
+"e6n-sP-KIh.normalTitle" = "허용 후 사용";
+
+/* Class = "UILabel"; text = "Stop now for a"; ObjectID = "eMB-AP-w9v"; */
+"eMB-AP-w9v.text" = "Stop now for a";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "eoq-NM-nhM"; */
+"eoq-NM-nhM.normalTitle" = "확인";
+
+/* Class = "UILabel"; text = "a bonus"; ObjectID = "f5t-cW-vKv"; */
+"f5t-cW-vKv.text" = "보너스";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "fK4-Wy-1Th"; */
+"fK4-Wy-1Th.text" = "시작";
+
+/* Class = "UIButton"; normalTitle = "Redeem"; ObjectID = "fQY-K9-szF"; */
+"fQY-K9-szF.normalTitle" = "교환";
+
+/* Class = "UINavigationItem"; title = "Location"; ObjectID = "fbQ-aT-cpn"; */
+"fbQ-aT-cpn.title" = "위치";
+
+/* Class = "UILabel"; text = "Time to check yours."; ObjectID = "frS-0f-X1S"; */
+"frS-0f-X1S.text" = "Time to check yours.";
+
+/* Class = "UILabel"; text = "Stop in 5 minutes."; ObjectID = "gGM-vb-khF"; */
+"gGM-vb-khF.text" = "5 분 후에 멈추십시오.";
+
+/* Class = "UILabel"; text = "Come back tomorrow"; ObjectID = "gOV-KW-EPg"; */
+"gOV-KW-EPg.text" = "내일 봐요. ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "gWx-e0-jaE"; */
+"gWx-e0-jaE.normalTitle" = "확인";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "gYo-tA-jol"; */
+"gYo-tA-jol.normalTitle" = "허용 후 사용";
+
+/* Class = "UILabel"; text = "Bonus"; ObjectID = "hIq-mR-xYh"; */
+"hIq-mR-xYh.text" = "보너스";
+
+/* Class = "UILabel"; text = "1000 points"; ObjectID = "hPp-ur-a65"; */
+"hPp-ur-a65.text" = "1000 포인트";
+
+/* Class = "UILabel"; text = "Device can now be used"; ObjectID = "hx6-OG-wAE"; */
+"hx6-OG-wAE.text" = "이제 기기를 사용할 수 있어요. ";
+
+/* Class = "UILabel"; text = "Schedule period"; ObjectID = "jcb-nz-hOR"; */
+"jcb-nz-hOR.text" = "일정 기간";
+
+/* Class = "UILabel"; text = "Enjoy some playtime"; ObjectID = "kp4-78-Azh"; */
+"kp4-78-Azh.text" = "놀이 시간을 가져보세요. ";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "lKw-zs-kyK"; */
+"lKw-zs-kyK.normalTitle" = "허용 후 사용";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "laI-M0-4ja"; */
+"laI-M0-4ja.normalTitle" = "중지";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "pms-3I-Ja4"; */
+"pms-3I-Ja4.normalTitle" = "중지";
+
+/* Class = "UILabel"; text = "100 points"; ObjectID = "q2q-fC-zhV"; */
+"q2q-fC-zhV.text" = "100 포인트";
+
+/* Class = "UILabel"; text = "Make sure it's not too dark"; ObjectID = "qHS-Z3-Tnh"; */
+"qHS-Z3-Tnh.text" = "주변이 너무 어둡지 않아야 해요";
+
+/* Class = "UITextField"; placeholder = "Schedule"; ObjectID = "qor-T1-map"; */
+"qor-T1-map.placeholder" = "Schedule";
+
+/* Class = "UIButton"; normalTitle = "Continue using"; ObjectID = "qt5-MA-JwX"; */
+"qt5-MA-JwX.normalTitle" = "계속 사용";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "sPI-e6-BP4"; */
+"sPI-e6-BP4.normalTitle" = "아니오";
+
+/* Class = "UILabel"; text = "Great, is this text clear?"; ObjectID = "sPV-ZY-khd"; */
+"sPV-ZY-khd.text" = "좋아,이 통행은 명확한가요?";
+
+/* Class = "UILabel"; text = "Device has been locked"; ObjectID = "sgP-iZ-TOM"; */
+"sgP-iZ-TOM.text" = "기기가 잠겼습니다. ";
+
+/* Class = "UIButton"; normalTitle = "Continue using"; ObjectID = "sqH-ic-kjI"; */
+"sqH-ic-kjI.normalTitle" = "계속 사용";
+
+/* Class = "UIButton"; normalTitle = "03:00 PM"; ObjectID = "tPh-ou-lns"; */
+"tPh-ou-lns.normalTitle" = "03:00 PM";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "u2p-yj-Ha1"; */
+"u2p-yj-Ha1.normalTitle" = "완성 된";
+
+/* Class = "UILabel"; text = "You've unlocked a reward! "; ObjectID = "uoo-ta-RN7"; */
+"uoo-ta-RN7.text" = "선물이 잠금 해제되었습니다! ";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "uqf-2F-5TX"; */
+"uqf-2F-5TX.normalTitle" = "허용 후 사용";
+
+/* Class = "UIButton"; normalTitle = "Use Now"; ObjectID = "v1s-S7-BSx"; */
+"v1s-S7-BSx.normalTitle" = "지금 사용";
+
+/* Class = "UILabel"; text = "SUCCESSFUL"; ObjectID = "vbL-lS-g09"; */
+"vbL-lS-g09.text" = "성공";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "wH5-m9-KPh"; */
+"wH5-m9-KPh.normalTitle" = "허용 후 사용";
+
+/* Class = "UIButton"; normalTitle = "View Later"; ObjectID = "x6M-wl-ZSf"; */
+"x6M-wl-ZSf.normalTitle" = "나중에 보기";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "z6a-Sg-su7"; */
+"z6a-Sg-su7.normalTitle" = "확인";

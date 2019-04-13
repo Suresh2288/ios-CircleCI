@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16F2073" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ChildRewardsCell" id="Xqx-m3-S41" customClass="ChildRewardsCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="101" height="101"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="101" height="101"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="Item1" translatesAutoresizingMaskIntoConstraints="NO" id="VxZ-KL-r4T">
+                        <rect key="frame" x="0.0" y="0.0" width="101" height="101"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="VxZ-KL-r4T" secondAttribute="height" multiplier="1:1" id="KD0-Ex-9oY"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="New" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WbN-wQ-j9Y">
+                        <rect key="frame" x="0.0" y="75" width="22" height="18"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="18" id="TKA-pk-lgv"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="10"/>
+                        <color key="textColor" red="0.85043728350000003" green="0.21816034619999999" blue="0.15920260550000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Expired" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TCz-Ph-dpf">
+                        <rect key="frame" x="0.0" y="0.0" width="101" height="101"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="12"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="VxZ-KL-r4T" secondAttribute="bottom" id="5rH-JT-6ck"/>
+                <constraint firstAttribute="bottom" secondItem="WbN-wQ-j9Y" secondAttribute="bottom" constant="8" id="C0H-nf-VtU"/>
+                <constraint firstAttribute="bottom" secondItem="TCz-Ph-dpf" secondAttribute="bottom" id="Eww-N1-ChA"/>
+                <constraint firstItem="WbN-wQ-j9Y" firstAttribute="leading" secondItem="Xqx-m3-S41" secondAttribute="leading" id="NNg-Bc-Jdn"/>
+                <constraint firstItem="VxZ-KL-r4T" firstAttribute="leading" secondItem="Xqx-m3-S41" secondAttribute="leading" id="gjg-1g-fKz"/>
+                <constraint firstAttribute="trailing" secondItem="TCz-Ph-dpf" secondAttribute="trailing" id="l1J-mA-FcQ"/>
+                <constraint firstItem="VxZ-KL-r4T" firstAttribute="top" secondItem="Xqx-m3-S41" secondAttribute="top" id="lCS-iH-Chg"/>
+                <constraint firstItem="TCz-Ph-dpf" firstAttribute="top" secondItem="Xqx-m3-S41" secondAttribute="top" id="mjl-c6-V5K"/>
+                <constraint firstItem="TCz-Ph-dpf" firstAttribute="leading" secondItem="Xqx-m3-S41" secondAttribute="leading" id="t4I-fh-3Y7"/>
+                <constraint firstAttribute="trailing" secondItem="VxZ-KL-r4T" secondAttribute="trailing" id="t8G-rP-pzd"/>
+            </constraints>
+            <size key="customSize" width="104" height="104"/>
+            <connections>
+                <outlet property="imgItem" destination="VxZ-KL-r4T" id="oeZ-CP-D8n"/>
+                <outlet property="lblExpired" destination="TCz-Ph-dpf" id="wYc-Z3-XXs"/>
+                <outlet property="lblStatus" destination="WbN-wQ-j9Y" id="N09-kG-zyy"/>
+            </connections>
+            <point key="canvasLocation" x="-85.5" y="-30.5"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Item1" width="480" height="480"/>
+    </resources>
+</document>

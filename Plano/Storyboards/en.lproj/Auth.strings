@@ -1,0 +1,156 @@
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "0ta-9Q-G34"; */
+"0ta-9Q-G34.placeholder" = "Email address";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2Ms-dU-RfL"; */
+"2Ms-dU-RfL.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Weak"; ObjectID = "31a-Nr-IxK"; */
+"31a-Nr-IxK.text" = "Weak";
+
+/* Class = "UIViewController"; title = "Countries"; ObjectID = "62o-Mi-Ajq"; */
+"62o-Mi-Ajq.title" = "Countries";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "AIy-p6-gJ0"; */
+"AIy-p6-gJ0.placeholder" = "Last name";
+
+/* Class = "UILabel"; text = "Country of residence"; ObjectID = "F0B-eR-WLA"; */
+"F0B-eR-WLA.text" = "Country of residence";
+
+/* Class = "UILabel"; text = "Optional"; ObjectID = "GUz-Gb-dEK"; */
+"GUz-Gb-dEK.text" = "Optional";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "GrC-mB-1uZ"; */
+"GrC-mB-1uZ.text" = "Edit Profile";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "HvR-3a-0WA"; */
+"HvR-3a-0WA.placeholder" = "New password";
+
+/* Class = "UITextField"; placeholder = "Current password"; ObjectID = "ISe-3m-IqP"; */
+"ISe-3m-IqP.placeholder" = "Current password";
+
+/* Class = "UILabel"; text = "Please enter the email which you used to sign up for your account below"; ObjectID = "Lp2-cR-DHW"; */
+"Lp2-cR-DHW.text" = "Please enter the email which you used to sign up for your account below";
+
+/* Class = "UILabel"; text = "Password must be 8 characters long and contain one capital letter, one number, and one symbol."; ObjectID = "MNR-l3-nRj"; */
+"MNR-l3-nRj.text" = "Password must be 8 characters long and contain one capital letter, one number, and one symbol.";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "NLr-ie-xug"; */
+"NLr-ie-xug.normalTitle" = "Sign in";
+
+/* Class = "UILabel"; text = "The email associate with this Facebook account has been used for registration. Please key in the password of the existing account to link up with this Facebook account."; ObjectID = "PbQ-dF-jkM"; */
+"PbQ-dF-jkM.text" = "The email associate with this Facebook account has been used for registration. Please key in the password of the existing account to link up with this Facebook account.";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "T0P-9t-FXD"; */
+"T0P-9t-FXD.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "Welcome back!"; ObjectID = "T9S-hL-EkW"; */
+"T9S-hL-EkW.text" = "Welcome back!";
+
+/* Class = "UILabel"; text = "Weak"; ObjectID = "U11-B8-i0x"; */
+"U11-B8-i0x.text" = "Weak";
+
+/* Class = "UILabel"; text = "Reset password"; ObjectID = "Vx0-P5-s7h"; */
+"Vx0-P5-s7h.text" = "Reset password";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "X6X-qK-qbG"; */
+"X6X-qK-qbG.normalTitle" = "Forgot password?";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "Xhd-bf-Y7K"; */
+"Xhd-bf-Y7K.text" = "City";
+
+/* Class = "UILabel"; text = "Password must be at least 8 characters with at least one number."; ObjectID = "YnI-BP-FuQ"; */
+"YnI-BP-FuQ.text" = "Password must be at least 8 characters with at least one number.";
+
+/* Class = "UIButton"; normalTitle = "Create profile"; ObjectID = "aGG-Ow-n8A"; */
+"aGG-Ow-n8A.normalTitle" = "Create profile";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "asd-vt-U5u"; */
+"asd-vt-U5u.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Confirm new password"; ObjectID = "b2r-2g-L2x"; */
+"b2r-2g-L2x.placeholder" = "Confirm new password";
+
+/* Class = "UIButton"; normalTitle = "Connect with Facebook"; ObjectID = "bAA-wU-wdR"; */
+"bAA-wU-wdR.normalTitle" = "Connect with Facebook";
+
+/* Class = "UITextField"; placeholder = "Create password"; ObjectID = "bI9-Mc-RnG"; */
+"bI9-Mc-RnG.placeholder" = "Create password";
+
+/* Class = "UILabel"; text = "Password must be at least 8 characters\n with at least one number."; ObjectID = "cTm-td-avS"; */
+"cTm-td-avS.text" = "Password must be at least 8 characters\n with at least one number.";
+
+/* Class = "UILabel"; text = "Forgot password"; ObjectID = "d1N-Ob-WOg"; */
+"d1N-Ob-WOg.text" = "Forgot password";
+
+/* Class = "UIButton"; normalTitle = "Country of residence"; ObjectID = "dPH-gy-GVo"; */
+"dPH-gy-GVo.normalTitle" = "Country of residence";
+
+/* Class = "UIButton"; normalTitle = "Create new password"; ObjectID = "eCG-Pr-dna"; */
+"eCG-Pr-dna.normalTitle" = "Create new password";
+
+/* Class = "UILabel"; text = "Reset password"; ObjectID = "feD-ek-s9Q"; */
+"feD-ek-s9Q.text" = "Reset password";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "gae-FG-tvT"; */
+"gae-FG-tvT.text" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Add profile image"; ObjectID = "grJ-Om-pSI"; */
+"grJ-Om-pSI.normalTitle" = "Add profile image";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "hED-Ux-y4w"; */
+"hED-Ux-y4w.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Create profile"; ObjectID = "hJd-lq-1gj"; */
+"hJd-lq-1gj.normalTitle" = "Create profile";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "jLm-aj-G6D"; */
+"jLm-aj-G6D.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Melbourne"; ObjectID = "laH-8i-LN5"; */
+"laH-8i-LN5.normalTitle" = "Melbourne";
+
+/* Class = "UIButton"; normalTitle = "Australia"; ObjectID = "mWH-Rp-pJz"; */
+"mWH-Rp-pJz.normalTitle" = "Australia";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "o4Y-7f-ECR"; */
+"o4Y-7f-ECR.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "New to plano? Register in a few seconds.\nOtherwise sign in and start using."; ObjectID = "o7C-X3-HMf"; */
+"o7C-X3-HMf.text" = "New to plano? Register in a few seconds.\nOtherwise sign in and start using.";
+
+/* Class = "UILabel"; text = "Optional"; ObjectID = "oaw-1N-PnM"; */
+"oaw-1N-PnM.text" = "Optional";
+
+/* Class = "UILabel"; text = "Link up Facebook account"; ObjectID = "obx-dc-2Im"; */
+"obx-dc-2Im.text" = "Link up Facebook account";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "ofe-Bm-Kqh"; */
+"ofe-Bm-Kqh.placeholder" = "Email address";
+
+/* Class = "UIButton"; normalTitle = "Disagree"; ObjectID = "pw9-rz-bAK"; */
+"pw9-rz-bAK.normalTitle" = "Disagree";
+
+/* Class = "UILabel"; text = "Please enter your email. This email will be used to activate your account."; ObjectID = "s50-wq-mU2"; */
+"s50-wq-mU2.text" = "Please enter your email. This email will be used to activate your account.";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "uyP-Lw-25q"; */
+"uyP-Lw-25q.normalTitle" = "City";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "wMj-dC-i8T"; */
+"wMj-dC-i8T.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "xLb-2G-ik5"; */
+"xLb-2G-ik5.placeholder" = "Email address";
+
+/* Class = "UIButton"; normalTitle = "Agree"; ObjectID = "yh5-vp-a8Z"; */
+"yh5-vp-a8Z.normalTitle" = "Agree";
+
+/* Class = "UILabel"; text = "You've entered the wrong email/password details.\nPlease try again."; ObjectID = "z7E-Hi-V5B"; */
+"z7E-Hi-V5B.text" = "You've entered the wrong email/password details.\nPlease try again.";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "zde-au-6EQ"; */
+"zde-au-6EQ.placeholder" = "Confirm password";
+
+/* Class = "UILabel"; text = "Singapore"; ObjectID = "ztv-gw-bae"; */
+"ztv-gw-bae.text" = "Singapore";

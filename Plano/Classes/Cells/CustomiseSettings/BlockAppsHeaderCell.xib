@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+        <array key="Raleway-Light.ttf">
+            <string>Raleway-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="BlockAppsHeaderCell" rowHeight="102" id="Chj-bD-Tnm" customClass="BlockAppsHeaderCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="102"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Chj-bD-Tnm" id="SYQ-r1-n0X">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="101.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Block Apps" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sjn-Z1-pvs" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                        <rect key="frame" x="18" y="21" width="219" height="20.5"/>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="17"/>
+                        <color key="textColor" red="0.18167480829999999" green="0.078883193429999998" blue="0.266808033" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Choose and block apps you don't wish your child to access." lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VMr-9r-KJS" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                        <rect key="frame" x="18" y="49.5" width="199" height="31"/>
+                        <fontDescription key="fontDescription" name="Raleway-Light" family="Raleway" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3gS-Zi-Alr" customClass="MaterialSwitch" customModule="Plano">
+                        <rect key="frame" x="257" y="17" width="45" height="30"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="0r9-LL-q4y"/>
+                            <constraint firstAttribute="width" constant="45" id="Tgc-0U-6xt"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="VMr-9r-KJS" secondAttribute="bottom" constant="21" id="4qq-E2-VfD"/>
+                    <constraint firstItem="VMr-9r-KJS" firstAttribute="leading" secondItem="sjn-Z1-pvs" secondAttribute="leading" id="6rC-fk-nO5"/>
+                    <constraint firstItem="sjn-Z1-pvs" firstAttribute="leading" secondItem="SYQ-r1-n0X" secondAttribute="leading" constant="18" id="7Sk-67-Qtj"/>
+                    <constraint firstAttribute="trailing" secondItem="3gS-Zi-Alr" secondAttribute="trailing" constant="18" id="BDl-EV-Gr2"/>
+                    <constraint firstItem="3gS-Zi-Alr" firstAttribute="centerY" secondItem="sjn-Z1-pvs" secondAttribute="centerY" id="JjF-Jv-oDe"/>
+                    <constraint firstItem="3gS-Zi-Alr" firstAttribute="leading" secondItem="sjn-Z1-pvs" secondAttribute="trailing" constant="20" id="MFB-j2-6Tg"/>
+                    <constraint firstItem="3gS-Zi-Alr" firstAttribute="leading" secondItem="VMr-9r-KJS" secondAttribute="trailing" constant="40" id="ScC-cK-OQK"/>
+                    <constraint firstItem="sjn-Z1-pvs" firstAttribute="top" secondItem="SYQ-r1-n0X" secondAttribute="top" constant="21" id="abz-ie-gEI"/>
+                    <constraint firstItem="VMr-9r-KJS" firstAttribute="top" secondItem="sjn-Z1-pvs" secondAttribute="bottom" constant="8" id="wyL-RC-iDl"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="blockAppsSwitch" destination="3gS-Zi-Alr" id="AR4-e9-zXF"/>
+                <outlet property="lblDescription" destination="VMr-9r-KJS" id="Fq8-Eh-oaq"/>
+                <outlet property="lblTitle" destination="sjn-Z1-pvs" id="CML-gY-TfL"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="83"/>
+        </tableViewCell>
+    </objects>
+</document>

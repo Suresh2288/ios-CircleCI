@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="LocationCell" rowHeight="97" id="Inl-i1-RWg" customClass="LocationCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="97"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Inl-i1-RWg" id="VWo-jP-eV8">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="96.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Cdj-a4-7eY">
+                        <rect key="frame" x="18" y="6" width="284" height="85"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WzB-Qi-Fvw" customClass="MaterialSwitch" customModule="Plano" customModuleProvider="target">
+                                <rect key="frame" x="222" y="28" width="45" height="30"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="45" id="Wdz-rZ-mby"/>
+                                    <constraint firstAttribute="height" constant="30" id="xEN-Qo-te0"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Location Title" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dBt-lg-xsN" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                                <rect key="frame" x="18" y="34" width="186" height="16"/>
+                                <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="16"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="top" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CZV-HU-hel">
+                                <rect key="frame" x="227" y="0.0" width="57" height="26"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="26" id="9oE-uG-um9"/>
+                                    <constraint firstAttribute="width" constant="57" id="F4Q-cM-cGf"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="5" maxX="8" maxY="0.0"/>
+                                <state key="normal" image="iconBtnDeleteCustmiseSetting">
+                                    <color key="titleColor" red="0.52771276239999998" green="0.54275387529999997" blue="0.81633675100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.3265686035" green="0.34097641709999998" blue="0.73597806690000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="WzB-Qi-Fvw" firstAttribute="centerY" secondItem="Cdj-a4-7eY" secondAttribute="centerY" id="5Tg-8h-tJp"/>
+                            <constraint firstAttribute="trailing" secondItem="WzB-Qi-Fvw" secondAttribute="trailing" constant="17" id="82g-kk-fl2"/>
+                            <constraint firstItem="CZV-HU-hel" firstAttribute="top" secondItem="Cdj-a4-7eY" secondAttribute="top" id="8FS-fV-lGL"/>
+                            <constraint firstAttribute="bottom" secondItem="dBt-lg-xsN" secondAttribute="bottom" constant="35" id="9xq-Xa-uJL"/>
+                            <constraint firstItem="dBt-lg-xsN" firstAttribute="top" secondItem="Cdj-a4-7eY" secondAttribute="top" constant="34" id="Z1w-JT-L4m"/>
+                            <constraint firstItem="dBt-lg-xsN" firstAttribute="leading" secondItem="Cdj-a4-7eY" secondAttribute="leading" constant="18" id="ZqJ-Lv-5B8"/>
+                            <constraint firstAttribute="trailing" secondItem="dBt-lg-xsN" secondAttribute="trailing" constant="80" id="cRu-Jp-eLa"/>
+                            <constraint firstAttribute="trailing" secondItem="CZV-HU-hel" secondAttribute="trailing" id="mUb-eM-yKv"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Cdj-a4-7eY" firstAttribute="top" secondItem="VWo-jP-eV8" secondAttribute="top" constant="6" id="2lo-gY-oCu"/>
+                    <constraint firstAttribute="trailing" secondItem="Cdj-a4-7eY" secondAttribute="trailing" constant="18" id="9tz-ms-Bxf"/>
+                    <constraint firstAttribute="bottom" secondItem="Cdj-a4-7eY" secondAttribute="bottom" constant="5" id="E1X-G6-6cd"/>
+                    <constraint firstItem="Cdj-a4-7eY" firstAttribute="leading" secondItem="VWo-jP-eV8" secondAttribute="leading" constant="18" id="Rur-5R-eQb"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="btnDelete" destination="CZV-HU-hel" id="HQx-sn-uCw"/>
+                <outlet property="lblLocationTitle" destination="dBt-lg-xsN" id="z5U-H7-EZn"/>
+                <outlet property="locationNameView" destination="Cdj-a4-7eY" id="4Au-eb-UrH"/>
+                <outlet property="locationTypeSwitch" destination="WzB-Qi-Fvw" id="tFi-1n-k85"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="27.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="iconBtnDeleteCustmiseSetting" width="9" height="9"/>
+    </resources>
+</document>

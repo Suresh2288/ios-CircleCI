@@ -1,0 +1,138 @@
+
+/* Class = "UILabel"; text = "5"; ObjectID = "0h7-3X-3ee"; */
+"0h7-3X-3ee.text" = "5";
+
+/* Class = "UILabel"; text = "Device is now in child mode. You can explore games and customise your plano character. Or continue using other apps normally and plano® will run in the background.\n"; ObjectID = "1E9-fc-IBz"; */
+"1E9-fc-IBz.text" = "设备现在处于儿童模式。您可以探索游戏并自定义您的plano角色。或者继续正常使用其他应用，plano将在后台运行。\n";
+
+/* Class = "UIButton"; normalTitle = "Shop"; ObjectID = "1yc-da-tgK"; */
+"1yc-da-tgK.normalTitle" = "购物";
+
+/* Class = "UIButton"; normalTitle = "Rug"; ObjectID = "8FB-L2-U8L"; */
+"8FB-L2-U8L.normalTitle" = "Rug";
+
+/* Class = "UILabel"; text = "Turn off Child Mode by\ntapping on this icon"; ObjectID = "8Uk-5x-M6K"; */
+"8Uk-5x-M6K.text" = "点击此图标关闭儿童模式";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "8Vd-Vy-9mk"; */
+"8Vd-Vy-9mk.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Sit up straight to correct your posture"; ObjectID = "8kr-tJ-3KL"; */
+"8kr-tJ-3KL.text" = "直接坐起来纠正你的姿势";
+
+/* Class = "UIButton"; normalTitle = "Calibrate now"; ObjectID = "8zn-VX-8QR"; */
+"8zn-VX-8QR.normalTitle" = "调整";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "Bu0-p9-0kB"; */
+"Bu0-p9-0kB.text" = "距离";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "CLm-Z6-bRH"; */
+"CLm-Z6-bRH.normalTitle" = "好";
+
+/* Class = "UILabel"; text = "Switch to Parent Mode"; ObjectID = "HMG-G8-fbp"; */
+"HMG-G8-fbp.text" = "切换到家长模式";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Ie3-JG-MKS"; */
+"Ie3-JG-MKS.text" = "5";
+
+/* Class = "UILabel"; text = "Click the device home button and use as normal. But always remember to follow my prompts!"; ObjectID = "JgS-8M-NTS"; */
+"JgS-8M-NTS.text" = "单击设备主页按钮照常使用。但请记得始终按照我的提示操作！";
+
+/* Class = "UILabel"; text = "Sit up straight to correct your posture"; ObjectID = "KFy-ro-flt"; */
+"KFy-ro-flt.text" = "直接坐起来纠正你的姿势";
+
+/* Class = "UILabel"; text = "Better luck next time!\nKeep using your device properly and play again tomorrow.\n"; ObjectID = "KHN-s1-osm"; */
+"KHN-s1-osm.text" = "祝您下次更好运！正确使用您的设备，明天再玩吧。";
+
+/* Class = "UILabel"; text = "20,000 pts"; ObjectID = "Kfa-pe-0tq"; */
+"Kfa-pe-0tq.text" = "20,000 pts";
+
+/* Class = "UILabel"; text = "You've won "; ObjectID = "KzQ-oE-fDQ"; */
+"KzQ-oE-fDQ.text" = "您已赢得 ";
+
+/* Class = "UIButton"; normalTitle = "Hat"; ObjectID = "MLb-mT-Dqc"; */
+"MLb-mT-Dqc.normalTitle" = "帽子";
+
+/* Class = "UILabel"; text = "Hold your phone 30cm or more from your face for 5 seconds and correct your posture."; ObjectID = "MPz-7E-IL8"; */
+"MPz-7E-IL8.text" = "请离设备20cm以上5秒和纠正你的姿势。";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "MXh-EX-fMd"; */
+"MXh-EX-fMd.normalTitle" = "跳过";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "Olw-V4-AiL"; */
+"Olw-V4-AiL.normalTitle" = "游戏";
+
+/* Class = "UILabel"; text = "Congratulations!"; ObjectID = "TX7-4i-rnq"; */
+"TX7-4i-rnq.text" = "祝贺您！";
+
+/* Class = "UIButton"; normalTitle = "Dog"; ObjectID = "TZp-4G-LNr"; */
+"TZp-4G-LNr.normalTitle" = "Dog";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "WrD-zp-zCI"; */
+"WrD-zp-zCI.text" = "00:00";
+
+/* Class = "UILabel"; text = "30 cm"; ObjectID = "Xhe-gp-Pym"; */
+"Xhe-gp-Pym.text" = "30 cm";
+
+/* Class = "UIButton"; normalTitle = "Customise"; ObjectID = "Xx1-9q-Ldq"; */
+"Xx1-9q-Ldq.normalTitle" = "自定义";
+
+/* Class = "UILabel"; text = "Customise Avatar"; ObjectID = "Yfs-o7-1px"; */
+"Yfs-o7-1px.text" = "自定义头像";
+
+/* Class = "UIButton"; normalTitle = "Glasses"; ObjectID = "aSa-q3-vHW"; */
+"aSa-q3-vHW.normalTitle" = "眼镜";
+
+/* Class = "UIButton"; normalTitle = "Lion"; ObjectID = "dpa-8N-2nZ"; */
+"dpa-8N-2nZ.normalTitle" = "Lion";
+
+/* Class = "UILabel"; text = "Hold your phone 30cm or more from your face for 5 seconds."; ObjectID = "e8Q-CC-kUY"; */
+"e8Q-CC-kUY.text" = "请离设备30cm以上5秒。";
+
+/* Class = "UILabel"; text = "Hello Carrie!"; ObjectID = "h4N-QQ-fWu"; */
+"h4N-QQ-fWu.text" = "Hello Carrie!";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "hxs-OG-Sw4"; */
+"hxs-OG-Sw4.placeholder" = "输入密码";
+
+/* Class = "UIButton"; normalTitle = "Teddy bear"; ObjectID = "jeK-MX-VN2"; */
+"jeK-MX-VN2.normalTitle" = "Teddy bear";
+
+/* Class = "UIButton"; normalTitle = "Badge"; ObjectID = "mtq-HX-7Xq"; */
+"mtq-HX-7Xq.normalTitle" = "徽章";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "oeC-Qg-Qe6"; */
+"oeC-Qg-Qe6.normalTitle" = "好";
+
+/* Class = "UILabel"; text = "20,000 pts"; ObjectID = "pmB-md-q6q"; */
+"pmB-md-q6q.text" = "20,000 pts";
+
+/* Class = "UILabel"; text = "Hold the device away from your face and guess the image!"; ObjectID = "qBu-hi-7Zc"; */
+"qBu-hi-7Zc.text" = "请离设备后，猜个图片。";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "rm5-Mg-CrB"; */
+"rm5-Mg-CrB.text" = "距离";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sSe-hb-CJs"; */
+"sSe-hb-CJs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "30 cm"; ObjectID = "sg4-ij-QxX"; */
+"sg4-ij-QxX.text" = "30 cm";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "t9x-lc-mEO"; */
+"t9x-lc-mEO.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "Let’s begin by doing a simple Face-to-Screen calibration.\nHold the device 20cm or more from your face for 5 seconds."; ObjectID = "vHz-s8-y7f"; */
+"vHz-s8-y7f.text" = "让我们先做一个简单的屏幕调整。\n请离设备20cm以上5秒。";
+
+/* Class = "UILabel"; text = "200 points!"; ObjectID = "w0j-eo-l3J"; */
+"w0j-eo-l3J.text" = "200 积分!";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "wbI-Pq-eWJ"; */
+"wbI-Pq-eWJ.normalTitle" = "游戏";
+
+/* Class = "UILabel"; text = "Find all the pairs and beat your own best time!"; ObjectID = "wps-ce-RmU"; */
+"wps-ce-RmU.text" = "查找所有配对，挑战您的最佳时间！";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "y9Y-KO-sDB"; */
+"y9Y-KO-sDB.text" = "00:00";

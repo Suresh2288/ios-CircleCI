@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+        <array key="Raleway-Light.ttf">
+            <string>Raleway-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="DescriptionTextCell" rowHeight="104" id="KGk-i7-Jjw" customClass="DescriptionTextCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="346" height="104"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="346" height="103"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Description" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ONN-iT-bZK">
+                        <rect key="frame" x="0.0" y="15" width="346" height="16.5"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="16.5" id="YJ3-Ae-NDh"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="14"/>
+                        <color key="textColor" red="0.17381137609481812" green="0.070775993168354034" blue="0.25891950726509094" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. " lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Uz6-VX-qy8">
+                        <rect key="frame" x="0.0" y="39.5" width="346" height="40"/>
+                        <fontDescription key="fontDescription" name="Raleway-Light" family="Raleway" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" verticalCompressionResistancePriority="749" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0au-zH-byO">
+                        <rect key="frame" x="278" y="84.5" width="68" height="19.5"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="19.5" id="y66-uW-l52"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="15"/>
+                        <state key="normal" title="See More">
+                            <color key="titleColor" red="0.4062153697" green="0.80823582410000006" blue="0.85152101520000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="ONN-iT-bZK" secondAttribute="trailing" id="0R2-Qd-eEp"/>
+                    <constraint firstAttribute="trailing" secondItem="Uz6-VX-qy8" secondAttribute="trailing" id="3jA-vA-RZy"/>
+                    <constraint firstAttribute="trailing" secondItem="0au-zH-byO" secondAttribute="trailing" id="50j-N2-lG1"/>
+                    <constraint firstItem="ONN-iT-bZK" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="15" id="96p-JN-vOo"/>
+                    <constraint firstItem="ONN-iT-bZK" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="CkJ-mb-boj"/>
+                    <constraint firstItem="0au-zH-byO" firstAttribute="top" secondItem="Uz6-VX-qy8" secondAttribute="bottom" constant="5" id="bwV-ia-i8I"/>
+                    <constraint firstAttribute="bottom" secondItem="0au-zH-byO" secondAttribute="bottom" id="cCn-x0-LVw"/>
+                    <constraint firstItem="Uz6-VX-qy8" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="d1s-F0-qFr"/>
+                    <constraint firstItem="Uz6-VX-qy8" firstAttribute="top" secondItem="ONN-iT-bZK" secondAttribute="bottom" constant="8" id="ec0-81-9Cz"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="btnSeeMore" destination="0au-zH-byO" id="C95-OG-6Sx"/>
+                <outlet property="lblDescripton" destination="ONN-iT-bZK" id="K32-bh-dif"/>
+                <outlet property="lblDetail" destination="Uz6-VX-qy8" id="NnF-0y-UFH"/>
+            </connections>
+            <point key="canvasLocation" x="16" y="-166"/>
+        </tableViewCell>
+    </objects>
+</document>

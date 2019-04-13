@@ -1,0 +1,138 @@
+
+/* Class = "UILabel"; text = "5"; ObjectID = "0h7-3X-3ee"; */
+"0h7-3X-3ee.text" = "5";
+
+/* Class = "UILabel"; text = "Device is now in child mode. You can explore games and customise your plano character. Or continue using other apps normally and plano® will run in the background.\n"; ObjectID = "1E9-fc-IBz"; */
+"1E9-fc-IBz.text" = "デバイスのチャイルド・モードが有効になりました。ゲームを探って、plano キャラクターをカスタマイズできます。または、いつも通りに他のアプリを使用し続けると、plano はバックグラウンドで動作します。\n";
+
+/* Class = "UIButton"; normalTitle = "Shop"; ObjectID = "1yc-da-tgK"; */
+"1yc-da-tgK.normalTitle" = "ショッピング";
+
+/* Class = "UIButton"; normalTitle = "Rug"; ObjectID = "8FB-L2-U8L"; */
+"8FB-L2-U8L.normalTitle" = "Rug";
+
+/* Class = "UILabel"; text = "Turn off Child Mode by\ntapping on this icon"; ObjectID = "8Uk-5x-M6K"; */
+"8Uk-5x-M6K.text" = "このアイコンをタップして、\nチャイルド・モードをオフにします";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "8Vd-Vy-9mk"; */
+"8Vd-Vy-9mk.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Sit up straight to correct your posture"; ObjectID = "8kr-tJ-3KL"; */
+"8kr-tJ-3KL.text" = "座ってあなたの姿勢を修正する";
+
+/* Class = "UIButton"; normalTitle = "Calibrate now"; ObjectID = "8zn-VX-8QR"; */
+"8zn-VX-8QR.normalTitle" = "調整する";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "Bu0-p9-0kB"; */
+"Bu0-p9-0kB.text" = "距离";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "CLm-Z6-bRH"; */
+"CLm-Z6-bRH.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Switch to Parent Mode"; ObjectID = "HMG-G8-fbp"; */
+"HMG-G8-fbp.text" = "ペアレント・モードに切り替え";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Ie3-JG-MKS"; */
+"Ie3-JG-MKS.text" = "5";
+
+/* Class = "UILabel"; text = "Click the device home button and use as normal. But always remember to follow my prompts!"; ObjectID = "JgS-8M-NTS"; */
+"JgS-8M-NTS.text" = "デバイスのホームボタンをクリックして、いつも通りに使います。ただし、忘れずにわたしのプロンプトにしたがってね！";
+
+/* Class = "UILabel"; text = "Sit up straight to correct your posture"; ObjectID = "KFy-ro-flt"; */
+"KFy-ro-flt.text" = "座ってあなたの姿勢を修正する";
+
+/* Class = "UILabel"; text = "Better luck next time!\nKeep using your device properly and play again tomorrow.\n"; ObjectID = "KHN-s1-osm"; */
+"KHN-s1-osm.text" = "次回はもっとがんばってね！この調子で上手にデバイスを使って、また明日遊んでね。";
+
+/* Class = "UILabel"; text = "20,000 pts"; ObjectID = "Kfa-pe-0tq"; */
+"Kfa-pe-0tq.text" = "20,000 pts";
+
+/* Class = "UILabel"; text = "You've won "; ObjectID = "KzQ-oE-fDQ"; */
+"KzQ-oE-fDQ.text" = "すごいね ";
+
+/* Class = "UIButton"; normalTitle = "Hat"; ObjectID = "MLb-mT-Dqc"; */
+"MLb-mT-Dqc.normalTitle" = "帽子";
+
+/* Class = "UILabel"; text = "Hold your phone 30cm or more from your face for 5 seconds and correct your posture."; ObjectID = "MPz-7E-IL8"; */
+"MPz-7E-IL8.text" = "装置を5秒以上20cm離して姿勢を修正してください。";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "MXh-EX-fMd"; */
+"MXh-EX-fMd.normalTitle" = "スキップ";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "Olw-V4-AiL"; */
+"Olw-V4-AiL.normalTitle" = "遊ぶ";
+
+/* Class = "UILabel"; text = "Congratulations!"; ObjectID = "TX7-4i-rnq"; */
+"TX7-4i-rnq.text" = "おめでとう！";
+
+/* Class = "UIButton"; normalTitle = "Dog"; ObjectID = "TZp-4G-LNr"; */
+"TZp-4G-LNr.normalTitle" = "Dog";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "WrD-zp-zCI"; */
+"WrD-zp-zCI.text" = "00:00";
+
+/* Class = "UILabel"; text = "30 cm"; ObjectID = "Xhe-gp-Pym"; */
+"Xhe-gp-Pym.text" = "30 cm";
+
+/* Class = "UIButton"; normalTitle = "Customise"; ObjectID = "Xx1-9q-Ldq"; */
+"Xx1-9q-Ldq.normalTitle" = "カスタマイズ";
+
+/* Class = "UILabel"; text = "Customise Avatar"; ObjectID = "Yfs-o7-1px"; */
+"Yfs-o7-1px.text" = "アバターのカスタマイズ";
+
+/* Class = "UIButton"; normalTitle = "Glasses"; ObjectID = "aSa-q3-vHW"; */
+"aSa-q3-vHW.normalTitle" = "メガネ";
+
+/* Class = "UIButton"; normalTitle = "Lion"; ObjectID = "dpa-8N-2nZ"; */
+"dpa-8N-2nZ.normalTitle" = "Lion";
+
+/* Class = "UILabel"; text = "Hold your phone 30cm or more from your face for 5 seconds."; ObjectID = "e8Q-CC-kUY"; */
+"e8Q-CC-kUY.text" = "デバイスを30cm以上5秒間放置してください。";
+
+/* Class = "UILabel"; text = "Hello Carrie!"; ObjectID = "h4N-QQ-fWu"; */
+"h4N-QQ-fWu.text" = "Hello Carrie!";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "hxs-OG-Sw4"; */
+"hxs-OG-Sw4.placeholder" = "パスワードを入力";
+
+/* Class = "UIButton"; normalTitle = "Teddy bear"; ObjectID = "jeK-MX-VN2"; */
+"jeK-MX-VN2.normalTitle" = "Teddy bear";
+
+/* Class = "UIButton"; normalTitle = "Badge"; ObjectID = "mtq-HX-7Xq"; */
+"mtq-HX-7Xq.normalTitle" = "バッジ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "oeC-Qg-Qe6"; */
+"oeC-Qg-Qe6.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "20,000 pts"; ObjectID = "pmB-md-q6q"; */
+"pmB-md-q6q.text" = "20,000 pts";
+
+/* Class = "UILabel"; text = "Hold the device away from your face and guess the image!"; ObjectID = "qBu-hi-7Zc"; */
+"qBu-hi-7Zc.text" = "デバイスを残して、画像を推測してください。";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "rm5-Mg-CrB"; */
+"rm5-Mg-CrB.text" = "距离";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sSe-hb-CJs"; */
+"sSe-hb-CJs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "30 cm"; ObjectID = "sg4-ij-QxX"; */
+"sg4-ij-QxX.text" = "30 cm";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "t9x-lc-mEO"; */
+"t9x-lc-mEO.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "Let’s begin by doing a simple Face-to-Screen calibration.\nHold the device 20cm or more from your face for 5 seconds."; ObjectID = "vHz-s8-y7f"; */
+"vHz-s8-y7f.text" = "簡単な画面調整から始めましょう。 \n装置を20cm以上5秒以上離してください。";
+
+/* Class = "UILabel"; text = "200 points!"; ObjectID = "w0j-eo-l3J"; */
+"w0j-eo-l3J.text" = "200 ポイント!";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "wbI-Pq-eWJ"; */
+"wbI-Pq-eWJ.normalTitle" = "遊ぶ";
+
+/* Class = "UILabel"; text = "Find all the pairs and beat your own best time!"; ObjectID = "wps-ce-RmU"; */
+"wps-ce-RmU.text" = "すべてのペアを見つけて、自己ベストタイムを更新しよう！";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "y9Y-KO-sDB"; */
+"y9Y-KO-sDB.text" = "00:00";

@@ -1,0 +1,6 @@
+framework module Woopra_iOS {
+  umbrella header "Woopra-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

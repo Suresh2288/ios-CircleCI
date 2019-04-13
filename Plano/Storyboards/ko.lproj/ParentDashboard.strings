@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "2yN-qm-v4T"; */
+"2yN-qm-v4T.text" = "데이터가 없습니다.";
+
+/* Class = "UIButton"; normalTitle = "Delete child account"; ObjectID = "8BV-QQ-Suq"; */
+"8BV-QQ-Suq.normalTitle" = "아이 계정 삭제";
+
+/* Class = "UILabel"; text = "Requested by your child :"; ObjectID = "8zE-Rs-paR"; */
+"8zE-Rs-paR.text" = "아이 요청사항:";
+
+/* Class = "UILabel"; text = "Last record:"; ObjectID = "94O-4U-WQ5"; */
+"94O-4U-WQ5.text" = "마지막 기록:";
+
+/* Class = "UILabel"; text = "26 June 2017"; ObjectID = "9M6-1Z-kDb"; */
+"9M6-1Z-kDb.text" = "26 June 2017";
+
+/* Class = "UILabel"; text = "Rewards"; ObjectID = "COL-4t-EHy"; */
+"COL-4t-EHy.text" = "선물";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "DQV-fL-0Xu"; */
+"DQV-fL-0Xu.text" = "보고";
+
+/* Class = "UIButton"; normalTitle = "Add Child"; ObjectID = "DUy-G3-Pm5"; */
+"DUy-G3-Pm5.normalTitle" = "아이 추가";
+
+/* Class = "UILabel"; text = "We will send you an email of your child's overall performance and eye health."; ObjectID = "E9q-SE-kqQ"; */
+"E9q-SE-kqQ.text" = "We will send you an email of your child's overall performance and eye health.";
+
+/* Class = "UILabel"; text = "Device tracking"; ObjectID = "FLD-zy-85p"; */
+"FLD-zy-85p.text" = "기기 추적";
+
+/* Class = "UITextField"; placeholder = "Left Eye"; ObjectID = "FO3-Ps-Czg"; */
+"FO3-Ps-Czg.placeholder" = "Left Eye";
+
+/* Class = "UILabel"; text = "0 min"; ObjectID = "JD8-Mx-qJI"; */
+"JD8-Mx-qJI.text" = "0 min";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "Kel-QI-73G"; */
+"Kel-QI-73G.normalTitle" = "날짜";
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "Kna-W8-4qW"; */
+"Kna-W8-4qW.placeholder" = "날짜";
+
+/* Class = "UILabel"; text = "Last month"; ObjectID = "L6C-27-cyt"; */
+"L6C-27-cyt.text" = "지난 달";
+
+/* Class = "UITextField"; placeholder = "Right Eye"; ObjectID = "Qcc-sM-fBf"; */
+"Qcc-sM-fBf.placeholder" = "Right Eye";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "RiO-Ev-CeV"; */
+"RiO-Ev-CeV.text" = "오늘";
+
+/* Class = "UILabel"; text = "Eye score"; ObjectID = "Sod-Xf-0U1"; */
+"Sod-Xf-0U1.text" = "플라노 점수";
+
+/* Class = "UIButton"; normalTitle = "Add record"; ObjectID = "Sv4-8m-Jd6"; */
+"Sv4-8m-Jd6.normalTitle" = "기록 추가";
+
+/* Class = "UIButton"; normalTitle = "Take the tour"; ObjectID = "Ug0-H8-CxR"; */
+"Ug0-H8-CxR.normalTitle" = "둘러보기";
+
+/* Class = "UILabel"; text = "Time spent on device:"; ObjectID = "Uh6-aM-xuM"; */
+"Uh6-aM-xuM.text" = "기기에 소요 된 시간 :";
+
+/* Class = "UILabel"; text = "Location Boundaries"; ObjectID = "VXO-sj-UY8"; */
+"VXO-sj-UY8.text" = "위치 제한";
+
+/* Class = "UILabel"; text = "Recent eye test results"; ObjectID = "VtK-cy-gAK"; */
+"VtK-cy-gAK.text" = "최근 시력 검사 결과";
+
+/* Class = "UILabel"; text = "Suggested items :"; ObjectID = "Yt1-t7-2pT"; */
+"Yt1-t7-2pT.text" = "Suggested items :";
+
+/* Class = "UILabel"; text = "Customise"; ObjectID = "ZUV-Cd-jwg"; */
+"ZUV-Cd-jwg.text" = "맞춤 설정";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "a8f-IX-EI2"; */
+"a8f-IX-EI2.text" = "4";
+
+/* Class = "UILabel"; text = "Posture tracking"; ObjectID = "b57-bh-Vzh"; */
+"b57-bh-Vzh.text" = "자세 추적";
+
+/* Class = "UILabel"; text = "out of 10"; ObjectID = "e9H-fR-PA3"; */
+"e9H-fR-PA3.text" = " / 10";
+
+/* Class = "UILabel"; text = "Schedule"; ObjectID = "ghz-LU-1gC"; */
+"ghz-LU-1gC.text" = "Schedule";
+
+/* Class = "UILabel"; text = "View your child's eye test results."; ObjectID = "jOp-E0-xB6"; */
+"jOp-E0-xB6.text" = "아이의 시력 검사 결과를 보세요. ";
+
+/* Class = "UIButton"; normalTitle = "Add record"; ObjectID = "jU1-vZ-d68"; */
+"jU1-vZ-d68.normalTitle" = "기록 추가";
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "jtr-Ya-xB0"; */
+"jtr-Ya-xB0.text" = "데이터가 없습니다.";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "mlY-Yh-QJr"; */
+"mlY-Yh-QJr.text" = "이름";
+
+/* Class = "UILabel"; text = "Block apps"; ObjectID = "pGZ-s3-yds"; */
+"pGZ-s3-yds.text" = "앱 차단";
+
+/* Class = "UILabel"; text = "Blue Light Filter"; ObjectID = "puy-vM-Hfr"; */
+"puy-vM-Hfr.text" = "블루라이트 필터";
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "rd6-ys-rbr"; */
+"rd6-ys-rbr.text" = "데이터가 없습니다.";
+
+/* Class = "UILabel"; text = "out of 10"; ObjectID = "tSJ-6M-J60"; */
+"tSJ-6M-J60.text" = " / 10";
+
+/* Class = "UILabel"; text = "Myopia progress"; ObjectID = "tgc-oO-UKt"; */
+"tgc-oO-UKt.text" = "근시 상태";
+
+/* Class = "UILabel"; text = "View how well your child is following the plano guidelines."; ObjectID = "tkX-iP-MsC"; */
+"tkX-iP-MsC.text" = "아이가 플라노 지침을 얼마나 잘 따르는지 확인하세요. ";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "uBi-zN-QTg"; */
+"uBi-zN-QTg.text" = "월간";
+
+/* Class = "UIButton"; normalTitle = "Visit the shop"; ObjectID = "uMm-Qb-PxX"; */
+"uMm-Qb-PxX.normalTitle" = "스토어 방문";
+
+/* Class = "UILabel"; text = "Block browser"; ObjectID = "vI2-Yu-o2K"; */
+"vI2-Yu-o2K.text" = "브라우저 차단";
+
+/* Class = "UILabel"; text = "View your child's device use."; ObjectID = "xC3-VZ-CFq"; */
+"xC3-VZ-CFq.text" = "아이의 기기 사용 현황을 보세요. ";
+
+/* Class = "UILabel"; text = "Weekly"; ObjectID = "y9E-um-co8"; */
+"y9E-um-co8.text" = "주간";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "zQp-ME-VtA"; */
+"zQp-ME-VtA.text" = "6";

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+        <array key="Raleway-Light.ttf">
+            <string>Raleway-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="115" id="KGk-i7-Jjw" customClass="ScheduleFooterCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="115"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="114.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bzf-NE-mB8" userLabel="Add View">
+                        <rect key="frame" x="18" y="6" width="284" height="86"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Set a day" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y7c-wu-ICe" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                                <rect key="frame" x="18" y="38" width="194" height="16"/>
+                                <fontDescription key="fontDescription" name="Raleway-Light" family="Raleway" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Set a time" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TWl-ZD-so9" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                                <rect key="frame" x="18" y="54" width="194" height="16"/>
+                                <fontDescription key="fontDescription" name="Raleway-Light" family="Raleway" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconBtnAddCustomiseSetting" translatesAutoresizingMaskIntoConstraints="NO" id="TkA-mR-CGB">
+                                <rect key="frame" x="241" y="35" width="22" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="22" id="0iH-Sa-Dmn"/>
+                                    <constraint firstAttribute="height" constant="22" id="czi-AN-OgA"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Add a new schedule" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uVJ-2E-3Ho" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                                <rect key="frame" x="18" y="16" width="194" height="19"/>
+                                <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="16"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.50980392159999999" green="0.80000000000000004" blue="0.84313725490000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="uVJ-2E-3Ho" firstAttribute="leading" secondItem="bzf-NE-mB8" secondAttribute="leading" constant="18" id="A5W-6E-Huw"/>
+                            <constraint firstItem="y7c-wu-ICe" firstAttribute="trailing" secondItem="uVJ-2E-3Ho" secondAttribute="trailing" id="Izc-6c-B9m"/>
+                            <constraint firstAttribute="trailing" secondItem="uVJ-2E-3Ho" secondAttribute="trailing" constant="72" id="SbY-AH-X0l"/>
+                            <constraint firstItem="y7c-wu-ICe" firstAttribute="top" secondItem="uVJ-2E-3Ho" secondAttribute="bottom" constant="3" id="Xz3-nC-h4o"/>
+                            <constraint firstItem="TWl-ZD-so9" firstAttribute="leading" secondItem="y7c-wu-ICe" secondAttribute="leading" id="ZgA-p8-Q5h"/>
+                            <constraint firstItem="y7c-wu-ICe" firstAttribute="leading" secondItem="uVJ-2E-3Ho" secondAttribute="leading" id="hU4-tq-vBb"/>
+                            <constraint firstItem="TWl-ZD-so9" firstAttribute="trailing" secondItem="y7c-wu-ICe" secondAttribute="trailing" id="lsg-Vz-C6a"/>
+                            <constraint firstAttribute="trailing" secondItem="TkA-mR-CGB" secondAttribute="trailing" constant="21" id="nBM-kh-kV9"/>
+                            <constraint firstItem="TkA-mR-CGB" firstAttribute="centerY" secondItem="y7c-wu-ICe" secondAttribute="centerY" id="uCk-ZR-arL"/>
+                            <constraint firstItem="TWl-ZD-so9" firstAttribute="top" secondItem="y7c-wu-ICe" secondAttribute="bottom" id="uwI-Q5-A7c"/>
+                            <constraint firstItem="uVJ-2E-3Ho" firstAttribute="top" secondItem="bzf-NE-mB8" secondAttribute="top" constant="16" id="zD6-Do-Ow0"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FxS-PL-HXh" userLabel="Seperator">
+                        <rect key="frame" x="0.0" y="113" width="320" height="1"/>
+                        <color key="backgroundColor" red="0.53779143095016479" green="0.84744852781295776" blue="0.88218647241592407" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="0.5" id="Jlw-H9-6js"/>
+                        </constraints>
+                    </view>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xCU-q2-CCK">
+                        <rect key="frame" x="18" y="6" width="284" height="86"/>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="xCU-q2-CCK" firstAttribute="leading" secondItem="bzf-NE-mB8" secondAttribute="leading" id="1o0-mg-Vwc"/>
+                    <constraint firstItem="xCU-q2-CCK" firstAttribute="top" secondItem="bzf-NE-mB8" secondAttribute="top" id="7tK-8e-vXM"/>
+                    <constraint firstAttribute="trailing" secondItem="bzf-NE-mB8" secondAttribute="trailing" constant="18" id="CEO-EV-ZFV"/>
+                    <constraint firstAttribute="trailing" secondItem="FxS-PL-HXh" secondAttribute="trailing" id="KG1-72-koL"/>
+                    <constraint firstItem="xCU-q2-CCK" firstAttribute="trailing" secondItem="bzf-NE-mB8" secondAttribute="trailing" id="NVD-2K-EGu"/>
+                    <constraint firstAttribute="bottom" secondItem="FxS-PL-HXh" secondAttribute="bottom" id="biG-CG-ejM"/>
+                    <constraint firstItem="FxS-PL-HXh" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="gyP-pP-Beb"/>
+                    <constraint firstItem="bzf-NE-mB8" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="18" id="hrJ-0O-5ax"/>
+                    <constraint firstItem="bzf-NE-mB8" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="6" id="nvA-bR-p5y"/>
+                    <constraint firstItem="FxS-PL-HXh" firstAttribute="top" secondItem="bzf-NE-mB8" secondAttribute="bottom" constant="21" id="tuQ-fE-0cD"/>
+                    <constraint firstItem="xCU-q2-CCK" firstAttribute="bottom" secondItem="bzf-NE-mB8" secondAttribute="bottom" id="ugd-uZ-bOZ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="addScheduleView" destination="bzf-NE-mB8" id="EsW-Bv-Vgf"/>
+                <outlet property="btnAddSchedule" destination="xCU-q2-CCK" id="Vdc-cP-uEK"/>
+                <outlet property="lblDayInfo" destination="TWl-ZD-so9" id="VW1-GE-5BA"/>
+                <outlet property="lblTimeInfo" destination="y7c-wu-ICe" id="Uod-TW-CZ6"/>
+                <outlet property="lblTitleInfo" destination="uVJ-2E-3Ho" id="K1I-h0-HG2"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="88.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="iconBtnAddCustomiseSetting" width="21" height="21"/>
+    </resources>
+</document>

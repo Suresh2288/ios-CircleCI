@@ -1,0 +1,45 @@
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "5Qy-9u-2uD"; */
+"5Qy-9u-2uD.placeholder" = "电子邮件地址";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "EuB-lf-II2"; */
+"EuB-lf-II2.text" = "0";
+
+/* Class = "UILabel"; text = " Other Parents/Carers that allow you to manage their children"; ObjectID = "FWH-x4-4pz"; */
+"FWH-x4-4pz.text" = "允许您管理其孩子的其他父母/看护人。";
+
+/* Class = "UILabel"; text = "Linked accounts"; ObjectID = "JFw-j7-E1n"; */
+"JFw-j7-E1n.text" = "关联账户";
+
+/* Class = "UILabel"; text = "Requests"; ObjectID = "Xa8-dB-agb"; */
+"Xa8-dB-agb.text" = "请求";
+
+/* Class = "UILabel"; text = "Other Children"; ObjectID = "c7G-QN-FfO"; */
+"c7G-QN-FfO.text" = "其他孩子";
+
+/* Class = "UILabel"; text = "Parents/Carers that you allow to manage your children"; ObjectID = "cut-cf-IfI"; */
+"cut-cf-IfI.text" = "允许您管理其孩子的其他父母/看护人。";
+
+/* Class = "UILabel"; text = "Linked accounts"; ObjectID = "n5L-B9-tzP"; */
+"n5L-B9-tzP.text" = "关联账户";
+
+/* Class = "UILabel"; text = "Add parent/carer"; ObjectID = "qFq-od-8rI"; */
+"qFq-od-8rI.text" = "添加父母/看护人";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "rKe-VD-fAs"; */
+"rKe-VD-fAs.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Send Request"; ObjectID = "sKd-iT-ntv"; */
+"sKd-iT-ntv.normalTitle" = "Send Request";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tNg-RW-VHP"; */
+"tNg-RW-VHP.text" = "0";
+
+/* Class = "UILabel"; text = "My Children"; ObjectID = "tSX-pu-fhQ"; */
+"tSX-pu-fhQ.text" = "我的孩子";
+
+/* Class = "UILabel"; text = "Requests"; ObjectID = "wgJ-Z7-kWn"; */
+"wgJ-Z7-kWn.text" = "请求";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wv1-tZ-fYX"; */
+"wv1-tZ-fYX.text" = "0";

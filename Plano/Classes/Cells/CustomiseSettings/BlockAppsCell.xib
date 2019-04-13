@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="BlockAppsCell" rowHeight="117" id="g9P-Sy-lt6" customClass="BlockAppsCell" customModule="Plano" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="117"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="g9P-Sy-lt6" id="4ez-nd-AyB">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="116.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Rzj-4B-8sD">
+                        <rect key="frame" x="18" y="6" width="284" height="88"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Block App Title" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Ha-DO-a2V" customClass="AdaptiveLabel" customModule="Plano" customModuleProvider="target">
+                                <rect key="frame" x="18" y="34" width="248" height="19"/>
+                                <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="16"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.3265686035" green="0.34097641709999998" blue="0.73597806690000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="3Ha-DO-a2V" firstAttribute="top" secondItem="Rzj-4B-8sD" secondAttribute="top" constant="34" id="7XV-Ab-lt6"/>
+                            <constraint firstItem="3Ha-DO-a2V" firstAttribute="leading" secondItem="Rzj-4B-8sD" secondAttribute="leading" constant="18" id="B9T-kT-bN0"/>
+                            <constraint firstAttribute="bottom" secondItem="3Ha-DO-a2V" secondAttribute="bottom" constant="35" id="EEg-WF-ykN"/>
+                            <constraint firstAttribute="trailing" secondItem="3Ha-DO-a2V" secondAttribute="trailing" constant="18" id="NNV-vo-NPd"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Fbm-f0-I3V" userLabel="Seperator">
+                        <rect key="frame" x="0.0" y="115" width="320" height="1"/>
+                        <color key="backgroundColor" red="0.53779143100000004" green="0.84744852780000002" blue="0.88218647240000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="0.5" id="wI5-xL-ayb"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="Fbm-f0-I3V" secondAttribute="trailing" id="Aaq-YR-XwL"/>
+                    <constraint firstAttribute="trailing" secondItem="Rzj-4B-8sD" secondAttribute="trailing" constant="18" id="LAa-Sj-qxo"/>
+                    <constraint firstItem="Fbm-f0-I3V" firstAttribute="top" secondItem="Rzj-4B-8sD" secondAttribute="bottom" constant="21" id="LYf-ia-gkd"/>
+                    <constraint firstItem="Rzj-4B-8sD" firstAttribute="leading" secondItem="4ez-nd-AyB" secondAttribute="leading" constant="18" id="PSb-Bn-UAV"/>
+                    <constraint firstItem="Rzj-4B-8sD" firstAttribute="top" secondItem="4ez-nd-AyB" secondAttribute="top" constant="6" id="dHe-fk-rWa"/>
+                    <constraint firstItem="Fbm-f0-I3V" firstAttribute="leading" secondItem="4ez-nd-AyB" secondAttribute="leading" id="gIs-hQ-dB7"/>
+                    <constraint firstAttribute="bottom" secondItem="Fbm-f0-I3V" secondAttribute="bottom" id="y5a-Pq-SSv"/>
+                </constraints>
+            </tableViewCellContentView>
+            <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+            <connections>
+                <outlet property="appNameView" destination="Rzj-4B-8sD" id="dCm-h5-XcQ"/>
+                <outlet property="lblAppTitle" destination="3Ha-DO-a2V" id="Ssd-CA-9qG"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="37.5"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,156 @@
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "0ta-9Q-G34"; */
+"0ta-9Q-G34.placeholder" = "电子邮件地址";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2Ms-dU-RfL"; */
+"2Ms-dU-RfL.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "Weak"; ObjectID = "31a-Nr-IxK"; */
+"31a-Nr-IxK.text" = "Weak";
+
+/* Class = "UIViewController"; title = "Countries"; ObjectID = "62o-Mi-Ajq"; */
+"62o-Mi-Ajq.title" = "国家";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "AIy-p6-gJ0"; */
+"AIy-p6-gJ0.placeholder" = "姓氏";
+
+/* Class = "UILabel"; text = "Country of residence"; ObjectID = "F0B-eR-WLA"; */
+"F0B-eR-WLA.text" = "居住国";
+
+/* Class = "UILabel"; text = "Optional"; ObjectID = "GUz-Gb-dEK"; */
+"GUz-Gb-dEK.text" = "可选";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "GrC-mB-1uZ"; */
+"GrC-mB-1uZ.text" = "Edit Profile";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "HvR-3a-0WA"; */
+"HvR-3a-0WA.placeholder" = "新密码";
+
+/* Class = "UITextField"; placeholder = "Current password"; ObjectID = "ISe-3m-IqP"; */
+"ISe-3m-IqP.placeholder" = "当前密码";
+
+/* Class = "UILabel"; text = "Please enter the email which you used to sign up for your account below"; ObjectID = "Lp2-cR-DHW"; */
+"Lp2-cR-DHW.text" = "请输入您之前注册以下账户使用的电子邮件地址。";
+
+/* Class = "UILabel"; text = "Password must be 8 characters long and contain one capital letter, one number, and one symbol."; ObjectID = "MNR-l3-nRj"; */
+"MNR-l3-nRj.text" = "Password must be 8 characters long and contain one capital letter, one number, and one symbol.";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "NLr-ie-xug"; */
+"NLr-ie-xug.normalTitle" = "登录";
+
+/* Class = "UILabel"; text = "The email associate with this Facebook account has been used for registration. Please key in the password of the existing account to link up with this Facebook account."; ObjectID = "PbQ-dF-jkM"; */
+"PbQ-dF-jkM.text" = "The email associate with this Facebook account has been used for registration. Please key in the password of the existing account to link up with this Facebook account.";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "T0P-9t-FXD"; */
+"T0P-9t-FXD.placeholder" = "名字";
+
+/* Class = "UILabel"; text = "Welcome back!"; ObjectID = "T9S-hL-EkW"; */
+"T9S-hL-EkW.text" = "欢迎回来！";
+
+/* Class = "UILabel"; text = "Weak"; ObjectID = "U11-B8-i0x"; */
+"U11-B8-i0x.text" = "Weak";
+
+/* Class = "UILabel"; text = "Reset password"; ObjectID = "Vx0-P5-s7h"; */
+"Vx0-P5-s7h.text" = "Reset password";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "X6X-qK-qbG"; */
+"X6X-qK-qbG.normalTitle" = "忘记密码";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "Xhd-bf-Y7K"; */
+"Xhd-bf-Y7K.text" = "城市";
+
+/* Class = "UILabel"; text = "Password must be at least 8 characters with at least one number."; ObjectID = "YnI-BP-FuQ"; */
+"YnI-BP-FuQ.text" = "Password must be at least 8 characters with at least one number.";
+
+/* Class = "UIButton"; normalTitle = "Create profile"; ObjectID = "aGG-Ow-n8A"; */
+"aGG-Ow-n8A.normalTitle" = "创建个人资料";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "asd-vt-U5u"; */
+"asd-vt-U5u.normalTitle" = "注册";
+
+/* Class = "UITextField"; placeholder = "Confirm new password"; ObjectID = "b2r-2g-L2x"; */
+"b2r-2g-L2x.placeholder" = "确认新密码";
+
+/* Class = "UIButton"; normalTitle = "Connect with Facebook"; ObjectID = "bAA-wU-wdR"; */
+"bAA-wU-wdR.normalTitle" = "Connect with Facebook";
+
+/* Class = "UITextField"; placeholder = "Create password"; ObjectID = "bI9-Mc-RnG"; */
+"bI9-Mc-RnG.placeholder" = "创建密码";
+
+/* Class = "UILabel"; text = "Password must be at least 8 characters\n with at least one number."; ObjectID = "cTm-td-avS"; */
+"cTm-td-avS.text" = "密码必须至少包含8个字符，\n并且至少包含1个数字。";
+
+/* Class = "UILabel"; text = "Forgot password"; ObjectID = "d1N-Ob-WOg"; */
+"d1N-Ob-WOg.text" = "忘记密码";
+
+/* Class = "UIButton"; normalTitle = "Country of residence"; ObjectID = "dPH-gy-GVo"; */
+"dPH-gy-GVo.normalTitle" = "居住国";
+
+/* Class = "UIButton"; normalTitle = "Create new password"; ObjectID = "eCG-Pr-dna"; */
+"eCG-Pr-dna.normalTitle" = "创建新密码";
+
+/* Class = "UILabel"; text = "Reset password"; ObjectID = "feD-ek-s9Q"; */
+"feD-ek-s9Q.text" = "Reset password";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "gae-FG-tvT"; */
+"gae-FG-tvT.text" = "注册";
+
+/* Class = "UIButton"; normalTitle = "Add profile image"; ObjectID = "grJ-Om-pSI"; */
+"grJ-Om-pSI.normalTitle" = "添加个人资料照片";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "hED-Ux-y4w"; */
+"hED-Ux-y4w.normalTitle" = "好";
+
+/* Class = "UIButton"; normalTitle = "Create profile"; ObjectID = "hJd-lq-1gj"; */
+"hJd-lq-1gj.normalTitle" = "创建个人资料";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "jLm-aj-G6D"; */
+"jLm-aj-G6D.placeholder" = "搜索";
+
+/* Class = "UIButton"; normalTitle = "Melbourne"; ObjectID = "laH-8i-LN5"; */
+"laH-8i-LN5.normalTitle" = "Melbourne";
+
+/* Class = "UIButton"; normalTitle = "Australia"; ObjectID = "mWH-Rp-pJz"; */
+"mWH-Rp-pJz.normalTitle" = "Australia";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "o4Y-7f-ECR"; */
+"o4Y-7f-ECR.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "New to plano? Register in a few seconds.\nOtherwise sign in and start using."; ObjectID = "o7C-X3-HMf"; */
+"o7C-X3-HMf.text" = "plano新手？ 请花几秒钟时间注册。\n如果已经注册，请登录并开始使用。";
+
+/* Class = "UILabel"; text = "Optional"; ObjectID = "oaw-1N-PnM"; */
+"oaw-1N-PnM.text" = "可选";
+
+/* Class = "UILabel"; text = "Link up Facebook account"; ObjectID = "obx-dc-2Im"; */
+"obx-dc-2Im.text" = "Link up Facebook account";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "ofe-Bm-Kqh"; */
+"ofe-Bm-Kqh.placeholder" = "电子邮件地址";
+
+/* Class = "UIButton"; normalTitle = "Disagree"; ObjectID = "pw9-rz-bAK"; */
+"pw9-rz-bAK.normalTitle" = "不同意";
+
+/* Class = "UILabel"; text = "Please enter your email. This email will be used to activate your account."; ObjectID = "s50-wq-mU2"; */
+"s50-wq-mU2.text" = "请输入你的电子邮件。此电子邮件将用于激活您的帐户。";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "uyP-Lw-25q"; */
+"uyP-Lw-25q.normalTitle" = "城市";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "wMj-dC-i8T"; */
+"wMj-dC-i8T.normalTitle" = "提交";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "xLb-2G-ik5"; */
+"xLb-2G-ik5.placeholder" = "电子邮件地址";
+
+/* Class = "UIButton"; normalTitle = "Agree"; ObjectID = "yh5-vp-a8Z"; */
+"yh5-vp-a8Z.normalTitle" = "同意";
+
+/* Class = "UILabel"; text = "You've entered the wrong email/password details.\nPlease try again."; ObjectID = "z7E-Hi-V5B"; */
+"z7E-Hi-V5B.text" = "您输入了错误的电子邮件/密码信息。\n请重试。";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "zde-au-6EQ"; */
+"zde-au-6EQ.placeholder" = "确认密码";
+
+/* Class = "UILabel"; text = "Singapore"; ObjectID = "ztv-gw-bae"; */
+"ztv-gw-bae.text" = "Singapore";

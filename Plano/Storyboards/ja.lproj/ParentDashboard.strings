@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "2yN-qm-v4T"; */
+"2yN-qm-v4T.text" = "データが見つかりません";
+
+/* Class = "UIButton"; normalTitle = "Delete child account"; ObjectID = "8BV-QQ-Suq"; */
+"8BV-QQ-Suq.normalTitle" = "子どものアカウントを削除";
+
+/* Class = "UILabel"; text = "Requested by your child :"; ObjectID = "8zE-Rs-paR"; */
+"8zE-Rs-paR.text" = "お子様からのリクエスト：";
+
+/* Class = "UILabel"; text = "Last record:"; ObjectID = "94O-4U-WQ5"; */
+"94O-4U-WQ5.text" = "前回の記録：";
+
+/* Class = "UILabel"; text = "26 June 2017"; ObjectID = "9M6-1Z-kDb"; */
+"9M6-1Z-kDb.text" = "26 June 2017";
+
+/* Class = "UILabel"; text = "Rewards"; ObjectID = "COL-4t-EHy"; */
+"COL-4t-EHy.text" = "リワード";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "DQV-fL-0Xu"; */
+"DQV-fL-0Xu.text" = "レポート";
+
+/* Class = "UIButton"; normalTitle = "Add Child"; ObjectID = "DUy-G3-Pm5"; */
+"DUy-G3-Pm5.normalTitle" = "子どもを追加";
+
+/* Class = "UILabel"; text = "We will send you an email of your child's overall performance and eye health."; ObjectID = "E9q-SE-kqQ"; */
+"E9q-SE-kqQ.text" = "We will send you an email of your child's overall performance and eye health.";
+
+/* Class = "UILabel"; text = "Device tracking"; ObjectID = "FLD-zy-85p"; */
+"FLD-zy-85p.text" = "デバイス・トラッキング";
+
+/* Class = "UITextField"; placeholder = "Left Eye"; ObjectID = "FO3-Ps-Czg"; */
+"FO3-Ps-Czg.placeholder" = "Left Eye";
+
+/* Class = "UILabel"; text = "0 min"; ObjectID = "JD8-Mx-qJI"; */
+"JD8-Mx-qJI.text" = "0 min";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "Kel-QI-73G"; */
+"Kel-QI-73G.normalTitle" = "日付";
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "Kna-W8-4qW"; */
+"Kna-W8-4qW.placeholder" = "日付";
+
+/* Class = "UILabel"; text = "Last month"; ObjectID = "L6C-27-cyt"; */
+"L6C-27-cyt.text" = "先月";
+
+/* Class = "UITextField"; placeholder = "Right Eye"; ObjectID = "Qcc-sM-fBf"; */
+"Qcc-sM-fBf.placeholder" = "Right Eye";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "RiO-Ev-CeV"; */
+"RiO-Ev-CeV.text" = "今日";
+
+/* Class = "UILabel"; text = "Eye score"; ObjectID = "Sod-Xf-0U1"; */
+"Sod-Xf-0U1.text" = "plano スコア";
+
+/* Class = "UIButton"; normalTitle = "Add record"; ObjectID = "Sv4-8m-Jd6"; */
+"Sv4-8m-Jd6.normalTitle" = "記録を追加";
+
+/* Class = "UIButton"; normalTitle = "Take the tour"; ObjectID = "Ug0-H8-CxR"; */
+"Ug0-H8-CxR.normalTitle" = "ツアーを見る";
+
+/* Class = "UILabel"; text = "Time spent on device:"; ObjectID = "Uh6-aM-xuM"; */
+"Uh6-aM-xuM.text" = "デバイスに費やされた時間：";
+
+/* Class = "UILabel"; text = "Location Boundaries"; ObjectID = "VXO-sj-UY8"; */
+"VXO-sj-UY8.text" = "場所の境界線";
+
+/* Class = "UILabel"; text = "Recent eye test results"; ObjectID = "VtK-cy-gAK"; */
+"VtK-cy-gAK.text" = "最近の視力検査の結果";
+
+/* Class = "UILabel"; text = "Suggested items :"; ObjectID = "Yt1-t7-2pT"; */
+"Yt1-t7-2pT.text" = "Suggested items :";
+
+/* Class = "UILabel"; text = "Customise"; ObjectID = "ZUV-Cd-jwg"; */
+"ZUV-Cd-jwg.text" = "カスタマイズ";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "a8f-IX-EI2"; */
+"a8f-IX-EI2.text" = "4";
+
+/* Class = "UILabel"; text = "Posture tracking"; ObjectID = "b57-bh-Vzh"; */
+"b57-bh-Vzh.text" = "姿勢トラッキング";
+
+/* Class = "UILabel"; text = "out of 10"; ObjectID = "e9H-fR-PA3"; */
+"e9H-fR-PA3.text" = " / 10";
+
+/* Class = "UILabel"; text = "Schedule"; ObjectID = "ghz-LU-1gC"; */
+"ghz-LU-1gC.text" = "Schedule";
+
+/* Class = "UILabel"; text = "View your child's eye test results."; ObjectID = "jOp-E0-xB6"; */
+"jOp-E0-xB6.text" = "子どもの視力検査の結果を見る。";
+
+/* Class = "UIButton"; normalTitle = "Add record"; ObjectID = "jU1-vZ-d68"; */
+"jU1-vZ-d68.normalTitle" = "記録を追加";
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "jtr-Ya-xB0"; */
+"jtr-Ya-xB0.text" = "データが見つかりません";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "mlY-Yh-QJr"; */
+"mlY-Yh-QJr.text" = "名前";
+
+/* Class = "UILabel"; text = "Block apps"; ObjectID = "pGZ-s3-yds"; */
+"pGZ-s3-yds.text" = "アプリをブロック";
+
+/* Class = "UILabel"; text = "Blue Light Filter"; ObjectID = "puy-vM-Hfr"; */
+"puy-vM-Hfr.text" = "ブルーライト・フィルタ";
+
+/* Class = "UILabel"; text = "No Records Found"; ObjectID = "rd6-ys-rbr"; */
+"rd6-ys-rbr.text" = "データが見つかりません";
+
+/* Class = "UILabel"; text = "out of 10"; ObjectID = "tSJ-6M-J60"; */
+"tSJ-6M-J60.text" = " / 10";
+
+/* Class = "UILabel"; text = "Myopia progress"; ObjectID = "tgc-oO-UKt"; */
+"tgc-oO-UKt.text" = "近視の経過状況";
+
+/* Class = "UILabel"; text = "View how well your child is following the plano guidelines."; ObjectID = "tkX-iP-MsC"; */
+"tkX-iP-MsC.text" = "子どもが plano ガイドラインをどのくらいよく守っているかを見る。";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "uBi-zN-QTg"; */
+"uBi-zN-QTg.text" = "毎月";
+
+/* Class = "UIButton"; normalTitle = "Visit the shop"; ObjectID = "uMm-Qb-PxX"; */
+"uMm-Qb-PxX.normalTitle" = "ショップにアクセス";
+
+/* Class = "UILabel"; text = "Block browser"; ObjectID = "vI2-Yu-o2K"; */
+"vI2-Yu-o2K.text" = "ブラウザをブロック";
+
+/* Class = "UILabel"; text = "View your child's device use."; ObjectID = "xC3-VZ-CFq"; */
+"xC3-VZ-CFq.text" = "子どものデバイスの使用状況を見る。";
+
+/* Class = "UILabel"; text = "Weekly"; ObjectID = "y9E-um-co8"; */
+"y9E-um-co8.text" = "毎週";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "zQp-ME-VtA"; */
+"zQp-ME-VtA.text" = "6";

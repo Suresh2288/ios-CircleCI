@@ -1,0 +1,300 @@
+
+/* Class = "UILabel"; text = "You are outside the safe area"; ObjectID = "11I-4M-BHy"; */
+"11I-4M-BHy.text" = "安全エリアの外にいますよ";
+
+/* Class = "UIButton"; normalTitle = "1km"; ObjectID = "19Z-wd-iv9"; */
+"19Z-wd-iv9.normalTitle" = "1km";
+
+/* Class = "UILabel"; text = "Device can't be used at this time"; ObjectID = "2CU-GT-ALM"; */
+"2CU-GT-ALM.text" = "今デバイスは使えませんよ。";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3D0-tQ-0OP"; */
+"3D0-tQ-0OP.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "3LE-3Q-np0"; */
+"3LE-3Q-np0.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Use Now"; ObjectID = "4PL-fD-tKE"; */
+"4PL-fD-tKE.normalTitle" = "今すぐ使う";
+
+/* Class = "UILabel"; text = "Well rested eyes"; ObjectID = "6xs-rc-eE7"; */
+"6xs-rc-eE7.text" = "しっかり目が休まったね。";
+
+/* Class = "UILabel"; text = "lblTitle"; ObjectID = "7ZK-DA-f9w"; */
+"7ZK-DA-f9w.text" = "lblTitle";
+
+/* Class = "UIButton"; normalTitle = "Everyday"; ObjectID = "85G-Ce-EvT"; */
+"85G-Ce-EvT.normalTitle" = "毎日";
+
+/* Class = "UILabel"; text = "EveryDay"; ObjectID = "8TA-Ba-fZt"; */
+"8TA-Ba-fZt.text" = "毎日";
+
+/* Class = "UIButton"; normalTitle = "Calibrate"; ObjectID = "8k3-Vh-daP"; */
+"8k3-Vh-daP.normalTitle" = "調整する";
+
+/* Class = "UILabel"; text = "Does your child wear glasses or contact lenses?"; ObjectID = "9w9-dG-V9Z"; */
+"9w9-dG-V9Z.text" = "お子様はメガネまたはコンタクトレンズをお使いですか？";
+
+/* Class = "UILabel"; text = "Are you sure? Lose 50 points."; ObjectID = "Asg-7d-s3i"; */
+"Asg-7d-s3i.text" = "本当ですか？ 50ポイントを失った。";
+
+/* Class = "UIButton"; normalTitle = "From"; ObjectID = "BFP-uO-cxE"; */
+"BFP-uO-cxE.normalTitle" = "開始日";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "Bqf-nk-VHn"; */
+"Bqf-nk-VHn.normalTitle" = "許可のもとで使う";
+
+/* Class = "UILabel"; text = "Schedule period"; ObjectID = "DYd-bk-C2y"; */
+"DYd-bk-C2y.text" = "予定の周期";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "Dtm-FP-jWl"; */
+"Dtm-FP-jWl.normalTitle" = "許可のもとで使う";
+
+/* Class = "UIBarButtonItem"; title = "Custom"; ObjectID = "Emk-hH-SV6"; */
+"Emk-hH-SV6.title" = "カスタマイズ";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "ErR-eV-a5d"; */
+"ErR-eV-a5d.normalTitle" = "スキップ";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "Erc-3Q-4wb"; */
+"Erc-3Q-4wb.text" = "終了日";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "FV2-Z1-plg"; */
+"FV2-Z1-plg.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Rest your eyes"; ObjectID = "HVl-KU-XBS"; */
+"HVl-KU-XBS.text" = "目を休ませよう。";
+
+/* Class = "UILabel"; text = "250 points"; ObjectID = "Hhe-En-giv"; */
+"Hhe-En-giv.text" = "250 points";
+
+/* Class = "UIButton"; normalTitle = "Schedule period"; ObjectID = "IPf-6e-n1S"; */
+"IPf-6e-n1S.normalTitle" = "予定の周期";
+
+/* Class = "UILabel"; text = "lblLocation"; ObjectID = "Jcx-O7-OKF"; */
+"Jcx-O7-OKF.text" = "lblLocation";
+
+/* Class = "UILabel"; text = "Remember. Wear yours."; ObjectID = "Jgt-aQ-jSB"; */
+"Jgt-aQ-jSB.text" = "メガネをかけることを忘れないでね。";
+
+/* Class = "UIButton"; normalTitle = "550m"; ObjectID = "Jyp-hp-jBo"; */
+"Jyp-hp-jBo.normalTitle" = "550m";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "M7g-8B-jNT"; */
+"M7g-8B-jNT.normalTitle" = "はい";
+
+/* Class = "UILabel"; text = "Lose"; ObjectID = "NYF-el-KgZ"; */
+"NYF-el-KgZ.text" = "失点";
+
+/* Class = "UILabel"; text = "100 points"; ObjectID = "O0G-7W-Ff5"; */
+"O0G-7W-Ff5.text" = "100 points";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "O0G-hW-jjg"; */
+"O0G-hW-jjg.normalTitle" = "保存";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Of6-tJ-hJL"; */
+"Of6-tJ-hJL.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "OhU-Y5-3Op"; */
+"OhU-Y5-3Op.normalTitle" = "許可のもとで使う";
+
+/* Class = "UILabel"; text = "Bonus"; ObjectID = "OmG-nJ-oNZ"; */
+"OmG-nJ-oNZ.text" = "ボーナス";
+
+/* Class = "UIButton"; normalTitle = "04:00 pm"; ObjectID = "PwG-dR-pPW"; */
+"PwG-dR-pPW.normalTitle" = "04:00 pm";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Q3P-6J-cmY"; */
+"Q3P-6J-cmY.normalTitle" = "OK";
+
+/* Class = "UITextField"; placeholder = "Boundary name"; ObjectID = "QlA-Ad-PqG"; */
+"QlA-Ad-PqG.placeholder" = "境界線の名前";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "R3k-2x-fro"; */
+"R3k-2x-fro.normalTitle" = "いいえ";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "RL3-5k-k9Y"; */
+"RL3-5k-k9Y.normalTitle" = "ストップ";
+
+/* Class = "UILabel"; text = "You've successfully created a child profile. Customise settings for for your child."; ObjectID = "Ryu-t7-lVK"; */
+"Ryu-t7-lVK.text" = "You've successfully created a child profile. Customise settings for for your child.";
+
+/* Class = "UILabel"; text = "Add a new schedule"; ObjectID = "SDL-0w-ClC"; */
+"SDL-0w-ClC.text" = "新しい予定を追加";
+
+/* Class = "UILabel"; text = "Look Far."; ObjectID = "SKX-UV-bIx"; */
+"SKX-UV-bIx.text" = "遠くの景色を見よう。";
+
+/* Class = "UIButton"; normalTitle = "Schedul Period"; ObjectID = "Sh0-pf-AUe"; */
+"Sh0-pf-AUe.normalTitle" = "Schedul Period";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "T1R-a1-rdE"; */
+"T1R-a1-rdE.normalTitle" = "開始する";
+
+/* Class = "UILabel"; text = "bonus"; ObjectID = "T4c-5H-vy2"; */
+"T4c-5H-vy2.text" = "ボーナス";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "TYU-Qh-XYt"; */
+"TYU-Qh-XYt.normalTitle" = "スキップ";
+
+/* Class = "UILabel"; text = "Bonus"; ObjectID = "UjZ-3A-luX"; */
+"UjZ-3A-luX.text" = "ボーナス";
+
+/* Class = "UILabel"; text = "250 points"; ObjectID = "W6F-mp-Izz"; */
+"W6F-mp-Izz.text" = "250 points";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "W8S-qe-jbk"; */
+"W8S-qe-jbk.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Awesome device use.   "; ObjectID = "X1Y-dJ-S1F"; */
+"X1Y-dJ-S1F.text" = "Awesome device use.   ";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "XRR-eZ-PN9"; */
+"XRR-eZ-PN9.normalTitle" = "スキップ";
+
+/* Class = "UILabel"; text = "Have you been outdoors today?"; ObjectID = "YDo-an-ttH"; */
+"YDo-an-ttH.text" = "今日は外に行ったかな？";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "YKM-6s-cMZ"; */
+"YKM-6s-cMZ.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "Yep-Vf-sZN"; */
+"Yep-Vf-sZN.normalTitle" = "Check";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Ypz-M4-kzu"; */
+"Ypz-M4-kzu.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "To"; ObjectID = "aIY-3p-pfh"; */
+"aIY-3p-pfh.normalTitle" = "終了日";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "aoW-z7-hgr"; */
+"aoW-z7-hgr.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Your device use is ok, keep trying."; ObjectID = "c4H-B6-ppn"; */
+"c4H-B6-ppn.text" = "デバイスの使い方はまずまずです。もう少しがんばってね。";
+
+/* Class = "UILabel"; text = "Hold the device 20cm or more from your face for 5 seconds."; ObjectID = "cFz-ex-GA3"; */
+"cFz-ex-GA3.text" = "装置を20cm以上5秒以上放置してください。";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "cS7-TA-FiC"; */
+"cS7-TA-FiC.normalTitle" = "はい";
+
+/* Class = "UILabel"; text = "OK, time's really up."; ObjectID = "cyv-4k-IWI"; */
+"cyv-4k-IWI.text" = "さあ、もう終わりです。";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "d5l-Dd-Txe"; */
+"d5l-Dd-Txe.normalTitle" = "許可のもとで使う";
+
+/* Class = "UIButton"; normalTitle = "350m"; ObjectID = "dmK-6k-P1W"; */
+"dmK-6k-P1W.normalTitle" = "350m";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "e6n-sP-KIh"; */
+"e6n-sP-KIh.normalTitle" = "許可のもとで使う";
+
+/* Class = "UILabel"; text = "Stop now for a"; ObjectID = "eMB-AP-w9v"; */
+"eMB-AP-w9v.text" = "Stop now for a";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "eoq-NM-nhM"; */
+"eoq-NM-nhM.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "a bonus"; ObjectID = "f5t-cW-vKv"; */
+"f5t-cW-vKv.text" = "ボーナス";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "fK4-Wy-1Th"; */
+"fK4-Wy-1Th.text" = "開始日";
+
+/* Class = "UIButton"; normalTitle = "Redeem"; ObjectID = "fQY-K9-szF"; */
+"fQY-K9-szF.normalTitle" = "商品と交換";
+
+/* Class = "UINavigationItem"; title = "Location"; ObjectID = "fbQ-aT-cpn"; */
+"fbQ-aT-cpn.title" = "場所";
+
+/* Class = "UILabel"; text = "Time to check yours."; ObjectID = "frS-0f-X1S"; */
+"frS-0f-X1S.text" = "Time to check yours.";
+
+/* Class = "UILabel"; text = "Stop in 5 minutes."; ObjectID = "gGM-vb-khF"; */
+"gGM-vb-khF.text" = "5分後に停止します。";
+
+/* Class = "UILabel"; text = "Come back tomorrow"; ObjectID = "gOV-KW-EPg"; */
+"gOV-KW-EPg.text" = "また明日ね。";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "gWx-e0-jaE"; */
+"gWx-e0-jaE.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "gYo-tA-jol"; */
+"gYo-tA-jol.normalTitle" = "許可のもとで使う";
+
+/* Class = "UILabel"; text = "Bonus"; ObjectID = "hIq-mR-xYh"; */
+"hIq-mR-xYh.text" = "ボーナス";
+
+/* Class = "UILabel"; text = "1000 points"; ObjectID = "hPp-ur-a65"; */
+"hPp-ur-a65.text" = "1000 ポイント";
+
+/* Class = "UILabel"; text = "Device can now be used"; ObjectID = "hx6-OG-wAE"; */
+"hx6-OG-wAE.text" = "デバイスを使えるようになったよ。";
+
+/* Class = "UILabel"; text = "Schedule period"; ObjectID = "jcb-nz-hOR"; */
+"jcb-nz-hOR.text" = "予定の周期";
+
+/* Class = "UILabel"; text = "Enjoy some playtime"; ObjectID = "kp4-78-Azh"; */
+"kp4-78-Azh.text" = "外でも遊んでね。";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "lKw-zs-kyK"; */
+"lKw-zs-kyK.normalTitle" = "許可のもとで使う";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "laI-M0-4ja"; */
+"laI-M0-4ja.normalTitle" = "ストップ";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "pms-3I-Ja4"; */
+"pms-3I-Ja4.normalTitle" = "ストップ";
+
+/* Class = "UILabel"; text = "100 points"; ObjectID = "q2q-fC-zhV"; */
+"q2q-fC-zhV.text" = "100 ポイント";
+
+/* Class = "UILabel"; text = "Make sure it's not too dark"; ObjectID = "qHS-Z3-Tnh"; */
+"qHS-Z3-Tnh.text" = "暗すぎる場所で使わないでね";
+
+/* Class = "UITextField"; placeholder = "Schedule"; ObjectID = "qor-T1-map"; */
+"qor-T1-map.placeholder" = "Schedule";
+
+/* Class = "UIButton"; normalTitle = "Continue using"; ObjectID = "qt5-MA-JwX"; */
+"qt5-MA-JwX.normalTitle" = "使い続ける";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "sPI-e6-BP4"; */
+"sPI-e6-BP4.normalTitle" = "いいえ";
+
+/* Class = "UILabel"; text = "Great, is this text clear?"; ObjectID = "sPV-ZY-khd"; */
+"sPV-ZY-khd.text" = "この通路ははっきりしていますか？";
+
+/* Class = "UILabel"; text = "Device has been locked"; ObjectID = "sgP-iZ-TOM"; */
+"sgP-iZ-TOM.text" = "デバイスがロックされています。";
+
+/* Class = "UIButton"; normalTitle = "Continue using"; ObjectID = "sqH-ic-kjI"; */
+"sqH-ic-kjI.normalTitle" = "使い続ける";
+
+/* Class = "UIButton"; normalTitle = "03:00 PM"; ObjectID = "tPh-ou-lns"; */
+"tPh-ou-lns.normalTitle" = "03:00 PM";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "u2p-yj-Ha1"; */
+"u2p-yj-Ha1.normalTitle" = "完成した";
+
+/* Class = "UILabel"; text = "You've unlocked a reward! "; ObjectID = "uoo-ta-RN7"; */
+"uoo-ta-RN7.text" = "リワードのロックが解除されたよ！";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "uqf-2F-5TX"; */
+"uqf-2F-5TX.normalTitle" = "許可のもとで使う";
+
+/* Class = "UIButton"; normalTitle = "Use Now"; ObjectID = "v1s-S7-BSx"; */
+"v1s-S7-BSx.normalTitle" = "今すぐ使う";
+
+/* Class = "UILabel"; text = "SUCCESSFUL"; ObjectID = "vbL-lS-g09"; */
+"vbL-lS-g09.text" = "成功";
+
+/* Class = "UIButton"; normalTitle = "Use with permission"; ObjectID = "wH5-m9-KPh"; */
+"wH5-m9-KPh.normalTitle" = "許可のもとで使う";
+
+/* Class = "UIButton"; normalTitle = "View Later"; ObjectID = "x6M-wl-ZSf"; */
+"x6M-wl-ZSf.normalTitle" = "後で見る";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "z6a-Sg-su7"; */
+"z6a-Sg-su7.normalTitle" = "OK";

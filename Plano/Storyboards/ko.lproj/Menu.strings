@@ -1,0 +1,144 @@
+
+/* Class = "UILabel"; text = "We'd love to hear your thoughts on the app. If you have any comments, good or bad, we're all ears (and eyes)!"; ObjectID = "0cx-71-KC1"; */
+"0cx-71-KC1.text" = "We'd love to hear your thoughts on the app. If you have any comments, good or bad, we're all ears (and eyes)!";
+
+/* Class = "UILabel"; text = "$49.99 per year"; ObjectID = "3GW-4K-BBF"; */
+"3GW-4K-BBF.text" = "$49.99 per year";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "3SC-1Q-ed5"; */
+"3SC-1Q-ed5.placeholder" = "이메일 주소";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "3mg-uJ-aAE"; */
+"3mg-uJ-aAE.text" = "개인정보";
+
+/* Class = "UIButton"; normalTitle = "Australia"; ObjectID = "4eR-Mv-kdQ"; */
+"4eR-Mv-kdQ.normalTitle" = "Australia";
+
+/* Class = "UITextField"; placeholder = "Search for your question"; ObjectID = "5aT-0c-3Em"; */
+"5aT-0c-3Em.placeholder" = "질문을 검색하세요";
+
+/* Class = "UILabel"; text = "Optional"; ObjectID = "7wp-AS-c9D"; */
+"7wp-AS-c9D.text" = "선택 사항";
+
+/* Class = "UILabel"; text = "$4.99 per month"; ObjectID = "Alq-V4-lcT"; */
+"Alq-V4-lcT.text" = "$4.99 per month";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "Dhm-7L-1dy"; */
+"Dhm-7L-1dy.placeholder" = "이메일 주소";
+
+/* Class = "UINavigationController"; title = "Premium Nav"; ObjectID = "E4c-x0-meo"; */
+"E4c-x0-meo.title" = "프리미엄";
+
+/* Class = "UIButton"; normalTitle = "Country of residence"; ObjectID = "F3A-dx-2L1"; */
+"F3A-dx-2L1.normalTitle" = "거주 국가";
+
+/* Class = "UILabel"; text = "$2.99 per month"; ObjectID = "Ff8-AR-E0W"; */
+"Ff8-AR-E0W.text" = "$2.99 per month";
+
+/* Class = "UIButton"; normalTitle = "Melbourne"; ObjectID = "HaJ-aj-yYH"; */
+"HaJ-aj-yYH.normalTitle" = "Melbourne";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "Maa-c1-PSF"; */
+"Maa-c1-PSF.placeholder" = "성";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OO7-9u-L2L"; */
+"OO7-9u-L2L.text" = "Label";
+
+/* Class = "UILabel"; text = "Who is plano?"; ObjectID = "OVi-Ro-wo9"; */
+"OVi-Ro-wo9.text" = "플라노는 누구인가요? ";
+
+/* Class = "UILabel"; text = "No notifications yet"; ObjectID = "RaZ-eG-m98"; */
+"RaZ-eG-m98.text" = "아직 알림 없음";
+
+/* Class = "UINavigationController"; title = "About Nav"; ObjectID = "RbB-B2-rSb"; */
+"RbB-B2-rSb.title" = "정보";
+
+/* Class = "UIButton"; normalTitle = "Reset password?"; ObjectID = "TIz-Ou-y77"; */
+"TIz-Ou-y77.normalTitle" = "비밀번호 재설정?";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "Ual-rs-UMi"; */
+"Ual-rs-UMi.normalTitle" = "구매";
+
+/* Class = "UINavigationController"; title = "Alert Settings Nav"; ObjectID = "Wjz-Q1-Krn"; */
+"Wjz-Q1-Krn.title" = "설정";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "bfL-kR-QXU"; */
+"bfL-kR-QXU.normalTitle" = "구매";
+
+/* Class = "UILabel"; text = "Optional"; ObjectID = "cNQ-eW-MVE"; */
+"cNQ-eW-MVE.text" = "선택 사항";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "cQd-jW-86p"; */
+"cQd-jW-86p.text" = "도시";
+
+/* Class = "UILabel"; text = "You've entered the wrong email/password details.\nPlease try again."; ObjectID = "d1W-0X-x2R"; */
+"d1W-0X-x2R.text" = "입력한 이메일 또는 비밀번호가 올바르지 않습니다. \n다시 시도하세요. ";
+
+/* Class = "UILabel"; text = "Free"; ObjectID = "fMC-Gw-gMP"; */
+"fMC-Gw-gMP.text" = "무료";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "hWy-8c-JTp"; */
+"hWy-8c-JTp.normalTitle" = "도시";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "hkR-eZ-vDA"; */
+"hkR-eZ-vDA.normalTitle" = "카테고리";
+
+/* Class = "UINavigationController"; title = "Feedback Nav"; ObjectID = "i1i-0O-5De"; */
+"i1i-0O-5De.title" = "피드백";
+
+/* Class = "UILabel"; text = "FREE 30 DAYS TRIAL"; ObjectID = "ils-Rn-661"; */
+"ils-Rn-661.text" = "무료 30 일 평가판";
+
+/* Class = "UIButton"; normalTitle = "Save changes"; ObjectID = "ixo-oo-VSP"; */
+"ixo-oo-VSP.normalTitle" = "저장";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "j03-o0-1bN"; */
+"j03-o0-1bN.placeholder" = "비밀번호";
+
+/* Class = "UITextField"; text = "!1Aaaaaa"; ObjectID = "j03-o0-1bN"; */
+"j03-o0-1bN.text" = "!1Aaaaaa";
+
+/* Class = "UILabel"; text = "Country of residence"; ObjectID = "kIC-BQ-fHE"; */
+"kIC-BQ-fHE.text" = "거주 국가";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "kQL-4z-C72"; */
+"kQL-4z-C72.placeholder" = "이름";
+
+/* Class = "UINavigationController"; title = "Menu Nav"; ObjectID = "lws-nd-9zx"; */
+"lws-nd-9zx.title" = "Menu Nav";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "nY2-NL-agx"; */
+"nY2-NL-agx.normalTitle" = "카테고리";
+
+/* Class = "UITextField"; placeholder = "Mobile number"; ObjectID = "pqW-10-utc"; */
+"pqW-10-utc.placeholder" = "전화 번호";
+
+/* Class = "UITextField"; placeholder = "Country code"; ObjectID = "pvN-ru-2Yj"; */
+"pvN-ru-2Yj.placeholder" = "Country code";
+
+/* Class = "UINavigationController"; title = "FAQ Nav"; ObjectID = "r0e-3E-s7j"; */
+"r0e-3E-s7j.title" = "FAQ";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "sKB-1M-uLH"; */
+"sKB-1M-uLH.placeholder" = "이름";
+
+/* Class = "UIButton"; normalTitle = "Add profile image"; ObjectID = "sgX-VD-2Wy"; */
+"sgX-VD-2Wy.normalTitle" = "프로필 이미지 추가";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "trd-vd-xKK"; */
+"trd-vd-xKK.normalTitle" = "제출";
+
+/* Class = "UILabel"; text = "Account Information"; ObjectID = "uMm-8x-p4S"; */
+"uMm-8x-p4S.text" = "계정 정보";
+
+/* Class = "UINavigationController"; title = "Notifications Nav"; ObjectID = "x2C-yh-32L"; */
+"x2C-yh-32L.title" = "알림";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "xFc-Za-ByU"; */
+"xFc-Za-ByU.normalTitle" = "구매";
+
+/* Class = "UIButton"; normalTitle = "Take the tour"; ObjectID = "yCt-Ew-bBO"; */
+"yCt-Ew-bBO.normalTitle" = "둘러보기";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "ybp-N4-hJy"; */
+"ybp-N4-hJy.text" = "피드백";

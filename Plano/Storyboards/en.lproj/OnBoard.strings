@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Step 1"; ObjectID = "1Bc-Qr-0hx"; */
+"1Bc-Qr-0hx.text" = "Step 1";
+
+/* Class = "UILabel"; text = "Tour"; ObjectID = "2Lz-Dr-NWs"; */
+"2Lz-Dr-NWs.text" = "Tour";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "GSk-eP-9Fn"; */
+"GSk-eP-9Fn.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Has it been\nthat long already?"; ObjectID = "VSS-Bp-pDI"; */
+"VSS-Bp-pDI.text" = "Has it been\nthat long already?";
+
+/* Class = "UILabel"; text = "Hey,\nnot too close!"; ObjectID = "Z5e-LE-bmM"; */
+"Z5e-LE-bmM.text" = "Hey,\nnot too close!";
+
+/* Class = "UILabel"; text = "Upload eye health information and get notifications for eye tests."; ObjectID = "ack-24-Ywb"; */
+"ack-24-Ywb.text" = "Upload eye health information and get notifications for eye tests.";
+
+/* Class = "UILabel"; text = "Step 2"; ObjectID = "fLD-ou-y86"; */
+"fLD-ou-y86.text" = "Step 2";
+
+/* Class = "UILabel"; text = "Add your child details."; ObjectID = "mJM-oT-fKS"; */
+"mJM-oT-fKS.text" = "Add your child details.";
+
+/* Class = "UILabel"; text = "Get Started Today!"; ObjectID = "pYZ-ri-tol"; */
+"pYZ-ri-tol.text" = "Get Started Today!";
+
+/* Class = "UILabel"; text = "Welcome to\nplano!"; ObjectID = "tSq-CE-LPP"; */
+"tSq-CE-LPP.text" = "Welcome to\nplano!";
